@@ -1,3 +1,9 @@
+{% if profile %}
+<section class="career-profile">
+    <img src="{{ logo }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
+  </div>
+{%- endif %}
+
 {% assign profile = site.data.data.profile %}
 {% if profile %}
 <section class="career-profile">
