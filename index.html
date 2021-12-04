@@ -9,17 +9,10 @@ layout: default
       {% include languages.html %}
       {% include education.html %}
       {% include skills.html %}
-      </div>
+    </div>
     
-    <div class="main">
-      <img src="{{ logo }}" class="author-avatar u-photo align-center">
-      </div>
     
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
+    {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
     
