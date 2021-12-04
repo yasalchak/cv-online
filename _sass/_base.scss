@@ -4,6 +4,20 @@
     line-height: 1.5;
 }
 
+//justify text
+// .text-justify {
+//   text-align: justify;
+// }
+
+//sidebar logo size
+.sidebar-about .avatar {
+    width: 10rem;
+    height: 10rem;
+//     border-radius: 100%;
+//     overflow: hidden;
+}
+
+
 body {
     background-color: var(--bg-color);
 }
