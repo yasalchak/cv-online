@@ -5,7 +5,7 @@ description: My CV test
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://yasalchak.github.io/jekyll-cv-test//assets/2.jpg
+logo:                  https://yasalchak.github.io/jekyll-cv-test/assets/2.jpg
 
 url: https://yasalchak.github.io/jekyll-cv-test/
 author: Yana
