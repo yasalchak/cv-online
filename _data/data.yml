@@ -1,4 +1,4 @@
-name: John Doe
+name: Yana Salchak
 support_dark_mode: true
 fork: true
 
@@ -14,7 +14,7 @@ contact:
 languages:
   - idiom: English
   - idiom: Russian
-  - idiom: French
+
 
 education:
   - degree: MSc in Informatics
