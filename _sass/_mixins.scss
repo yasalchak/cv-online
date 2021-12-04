@@ -1,7 +1,7 @@
 @mixin header {
     color: var(--fg-color);
     font-size: 18px;
-    text-transform: uppercase;
+    #text-transform: uppercase;
     font-weight: 700;
     margin-top:20px;
     display: flex;
