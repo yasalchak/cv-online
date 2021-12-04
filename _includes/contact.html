@@ -1,5 +1,5 @@
  {% if site.logo %}
-     <img src="https://github.com/yasalchak/jekyll-cv-test/assets/2.jpg" />
+     <img src="{{site.logo | relative_url}}" />
        {% endif %}
 
 {% assign contact = site.data.data.contact %}
