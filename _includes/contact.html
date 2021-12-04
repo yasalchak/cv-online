@@ -1,7 +1,8 @@
- {% if site.logo %}
-     <img src="{{site.logo | relative_url}}" />
-       {% endif %}
-
+{% if site.logo -%}
+  <div class="sidebar">
+   <img src="{{ logo }}" class="author-avatar u-photo align-center" alt="Yana">
+  </div>
+{%- endif %}
 {% assign contact = site.data.data.contact %}
 {% if contact %}
 <section class="contact">
