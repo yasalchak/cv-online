@@ -1,6 +1,6 @@
 title: CV | A jekyll template
 description:  A beautiful template for your CV.
-logo: "/assets/2.jpg?raw=true" # your photo (or logo) here
+logo: "https://github.com/yasalchak/jekyll-cv-test/blob/f3e1a00d4095d48ba2fa479a6ffc2575d990e5f0/_data/Author1.tiff" # your photo (or logo) here
 url: https://yasalchak.github.io/jekyll-cv-test/
 baseurl: ''
 theme_skin: blue
