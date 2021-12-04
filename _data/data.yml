@@ -1,11 +1,11 @@
 name: Yana Salchak
-support_dark_mode: true
-fork: true
+support_dark_mode: false
+fork: false
 
 # Sidebar
 contact:
   email: iana.salchak@griffithuni.edu.au
-  github: yasalchak
+  # github: yasalchak
   linkedin: Yana Salchak
   phone: +61452152820
   gitlab: 
