@@ -1,8 +1,8 @@
 title: CV | A jekyll template
 description:  A beautiful template for your CV.
-logo: "https://yasalchak.github.io/jekyll-cv-test/_data/Author1.tiff" # your photo (or logo) here
+logo: "/_data/Author1.tiff" # your photo (or logo) here
 url: https://yasalchak.github.io/jekyll-cv-test/
-author: Shangzhi Huang
+author: Yana
 email: ngzhio@gmail.com
 baseurl: ''
 theme_skin: blue
