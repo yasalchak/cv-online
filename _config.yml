@@ -4,7 +4,7 @@ logo: /_data/Author1.tiff
 url: https://yasalchak.github.io/jekyll-cv-test/
 author: Yana
 email: ngzhio@gmail.com
-baseurl: 'https://yasalchak.github.io/jekyll-cv-test/'
+baseurl: ''
 theme_skin: blue
 
 sass:
