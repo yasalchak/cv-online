@@ -3,7 +3,7 @@ description:  A beautiful template for your CV.
 logo: "/assets/2.jpg?raw=true" # your photo (or logo) here
 url: https://yasalchak.github.io/jekyll-cv-test/
 baseurl: ''
-theme_skin: blue
+theme_skin: air
 
 sass:
   sass_dir: _sass
