@@ -4,10 +4,10 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: iana.salchak@griffithuni.edu.au
+  github: yasalchak
+  linkedin: Yana Salchak
+  phone: +61452152820
   gitlab: 
   twitter: 
 
@@ -26,18 +26,24 @@ education:
     university: Ionian University
 
 skills:
-  - category: Backend
+  - category: Software
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Matlab
+      - Python
+      - R (introductory)
+      - CST
+      - CIVA
+  - category: Research
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Writing scientific papers
+      - Writing white papers
+      - Ethics Approval applications
+      - Presentations in front of wide international audiences 
+  - category: Hardware
     skill:
-      - Docker
-      - Kubernetes 
+      - VNA
+      - Dream Catcher
+      - Ultrasound NDT
 
 # Profile
 profile: |
