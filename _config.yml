@@ -10,7 +10,7 @@ logo:                  https://yasalchak.github.io/jekyll-cv-test/assets/2.jpg
 url: https://yasalchak.github.io/jekyll-cv-test/
 author: Yana
 email: ngzhio@gmail.com
-#baseurl: 'https://github.com/yasalchak/jekyll-cv-test.git'
+baseurl: "/jekyll-cv-test"
 theme_skin: blue
 
 sass:
