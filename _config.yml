@@ -1,6 +1,12 @@
-title: CV | A jekyll template
-logo: "https://yasalchak.github.io/jekyll-cv-test/_data/Author1.tiff?raw=true"  
-description:  A beautiful template for your CV.
+title: CV | Testing jekyll template
+description: My CV test
+
+
+# A (square) logo for your site.
+# If provided, it will be shown at the top of the sidebar.
+# It also used by the `jekyll-seo-tag` plugin.
+logo:                  /assets/2.jpg
+
 url: https://yasalchak.github.io/jekyll-cv-test/
 author: Yana
 email: ngzhio@gmail.com
