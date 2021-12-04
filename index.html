@@ -14,6 +14,15 @@ layout: default
     <div class="main">
       <img src="{{ logo }}" class="author-avatar u-photo align-center">
       </div>
+    
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+    
     <div class="main">
       {% include career-profile.html %}
       {% include experience.html %}
