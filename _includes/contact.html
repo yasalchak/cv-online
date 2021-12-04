@@ -1,18 +1,4 @@
 
-{% if site.logo -%}
-     <div class="contact">
-     <img src="{{ logo }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
-     </div>
- {%- endif %}
-
-  {% if site.email -%}
-      <li>
-        <i class="sidebar-icon fas fa-envelope"></i>
-        <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-      </li>
-          </div>
-    {% endif %}
-
 {% assign contact = site.data.data.contact %}
 {% if contact %}
 <section class="contact">
