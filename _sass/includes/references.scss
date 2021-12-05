@@ -1,0 +1,41 @@
+.references {
+
+    .persons {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .title {
+        @include header;
+    }
+    .name {
+        @include sub-header
+    }
+
+    .contact-item {
+        display: flex;
+        align-items: center;
+        @include body-text;
+        svg {
+            width: 18px;
+            display: inline-block;
+            color: var(--fg-color);
+        }
+        a {
+            text-decoration: none;
+            padding-top: 4px;
+            padding-left: 4px;
+            @include body-text;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .person {
+        > * {
+            margin-bottom: 3px;
+        }
+    }
+}
