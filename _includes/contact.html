@@ -3,19 +3,19 @@
 {% if contact %}
 <section class="contact">
     <div class="logo">
-          <img src="/assets/2.jpg" alt="">
+          <img src="/logo.jpg" alt="">
     </div>
-   <div class="title">Contact</div>
-    {% if contact.email %}
+    <div class="title">Contact</div>
+     {% if contact.email %}
         <div class="contact-item">
             <i data-feather="mail"></i>
             <a href="#">
                 {{contact.email}}
             </a>
         </div>
-    {% endif %}
+     {% endif %}
 
-    {% if contact.phone %}
+     {% if contact.phone %}
         <div class="contact-item">
             <i data-feather="phone"></i>
             <a href="#">
