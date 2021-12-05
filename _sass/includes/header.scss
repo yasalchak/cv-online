@@ -53,18 +53,18 @@
     text-transform: uppercase;
     letter-spacing: 1px;
     color:  #002333;
-    padding-top: 3rem;
+    padding-top: 0rem;
     }
 
     .contact-info ul{
-    padding-top: 1rem;
+    padding-top: 0.5rem;
     }
 
     .contact-info ul li{
     padding: .3rem 0;
     display: flex;
     align-items: right;
-    color:  #002333;
+    color:  var(--fg-color);
     }
     .contact-info ul li i{
     padding-right: 1rem;
