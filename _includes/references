@@ -1,0 +1,40 @@
+{% assign references = site.data[site.lang].references %}
+{% if references %}
+<section class="references">
+    <h2 class="title">{{references.title}}</h2>
+    <div class="persons">
+        {% for person in references.persons %}
+        <div class="person">
+            <div class="name">{{person.name}}</div>
+            {% if person.job %}
+            <div class="contact-item">
+                {{person.job}}
+            </div>
+            {% endif %}
+            {% if person.location %}
+            <div class="contact-item">
+                {{person.location}}
+            </div>
+            {% endif %}
+            {% if person.email %}
+            <div class="contact-item">
+                <i data-feather="mail"></i>
+                <a href="mailto:{{person.email}}">
+                    {{person.email}}
+                </a>
+            </div>
+            {% endif %}
+
+            {% if person.phone %}
+            <div class="contact-item">
+                <i data-feather="phone"></i>
+                <a href="#">
+                    {{person.phone}}
+                </a>
+            </div>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
