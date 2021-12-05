@@ -1,7 +1,9 @@
 {% assign contact = site.data.data.contact %}
 {% if contact %}
+
+
 <section class="contact">
-   <div class="title">Contact</div>
+   <div class="title">Contact details</div>
      {% if contact.email %}
         <div class="contact-item">
             <i data-feather="mail"></i>
@@ -13,7 +15,7 @@
 
      {% if contact.phone %}
         <div class="contact-item">
-            <i data-feather="phone"></i>
+            <i class="fa fa-phone"></i>
             <a href="#">
                 {{contact.phone}}
             </a>
