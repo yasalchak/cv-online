@@ -7,10 +7,10 @@ description: My CV test
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/2.jpg
 
-url: https://yasalchak.github.io/jekyll-cv-test/
+url: https://yasalchak.github.io
 author: Yana
 email: ngzhio@gmail.com
-baseurl: ""
+baseurl: /jekyll-cv-test
 theme_skin: blue
 
 sass:
