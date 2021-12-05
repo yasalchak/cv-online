@@ -113,17 +113,16 @@ volunteering:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       
-      
-  references:
-  title: "R&eacute;f&eacute;rences"
+references:
+  title: "Ref"
   persons:
-    - name: Fran&ccedil;ois Bolduc
+    - name: FraBolduc
       job: "Chef, Unit&eacute; des milieux marins et aquatiques r&eacute;gion du Qu&eacute;bec"
       location: Environnement et Changement climatique Canada
       email: francois.bolduc@canada.ca
       phone: (418) 640-2910
     - name: Nicolas Lecomte
-      job: Professeur Agr&eacute;g&eacute;
+      job: Professeur Agreacute;gcute;
       location: Universit&eacute; de Moncton
       email: nicolas.lecomte@umoncton.ca
       phone: (506) 858-4291
