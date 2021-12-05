@@ -3,6 +3,12 @@
     .title {
         @include sub-header;
     }
+    .logo {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100%;
+    overflow: hidden;
+    }
     .contact-item {
         display: flex;
         align-items: center;
