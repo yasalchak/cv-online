@@ -46,9 +46,8 @@ skills:
       - Ultrasound NDT
 
 # Profile
-profile: |
- 
-   items: [
+profile: 
+  items: [
     "Compiler, analyser et interpr&eacute;ter des donn&eacute;es scientifiques",
     "R&eacute;diger et pr&eacute;senter des rapports scientifiques et vulgaris&eacute;s",
     "Double dipl&ocirc;me en Biologie et en Informatique",
