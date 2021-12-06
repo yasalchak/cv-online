@@ -49,7 +49,7 @@ skills:
 profile: |
  I am a Biomedical Engineer, finishing my PhD.
  Main Skills:
- "- Conducting multidisciplinary research
+ -Conducting multidisciplinary research
 - Scientific writing 
 - White papers preparation 
 - Ethics approval applications preparation
@@ -58,12 +58,10 @@ profile: |
 - Supervising of research projects for Bachelor and Master Students
 - Knowledge and experience with Vector Network Analyzer
 - Knowledge and experience with ultrasound nondestructive testin equipment, including ultrasonic phased arrays for material inspections"
-
-"Programming skills:
   - MATLAB 
   - Python
   - CST
-  - Introductuary level of R"
+  - Introductuary level of R
   
 # Experience
 experience:
