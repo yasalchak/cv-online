@@ -48,15 +48,17 @@ skills:
 # Profile
 profile: 
   items: [
-    "Compiler, analyser et interpr&eacute;ter des donn&eacute;es scientifiques",
-    "R&eacute;diger et pr&eacute;senter des rapports scientifiques et vulgaris&eacute;s",
-    "Double dipl&ocirc;me en Biologie et en Informatique",
-    "Bilingue fran&ccedil;ais/anglais",
-    "Mettre en place et utiliser des protocoles de collectes de donn&eacute;es et d'&eacute;chantillons",
-    "Capturer, manipuler et baguer des oiseaux marins (fous de bassan et eiders &agrave; duvet)",
-    "Bonnes capacit&eacute;s d'adaptation, de planification et apprentissage rapide",
-    "D&eacute;velopper des logiciels dans divers langages de programmation (R, Python, Java, PHP, HTML, C, C++, HTML, Perl, Caml)",
-  ]
+    "Conducting multidisciplinary research"
+    "Scientific writing"
+    "White papers preparation"
+    "Ethics approval applications preparation"
+    "Numerical modelling"
+    "High level of presentation skills with experience of presenting results to large international audiences"
+    "Supervising of research projects for Bachelor and Master Students"
+    "Knowledge and experience with Vector Network Analyzer"
+    "Knowledge and experience with ultrasound nondestructive testin equipment, including ultrasonic phased arrays for material inspections"
+    "Programming skills MATLAB, PHYTON, R (*introductory*), HTLM (*introductory*)"
+    ]
  
   
 # Experience
