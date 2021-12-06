@@ -5,4 +5,5 @@
     .details {
         @include body-text;
     }
+    color: var(--fg-color-body);
 }
