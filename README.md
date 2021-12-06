@@ -2,10 +2,9 @@
 
 ## Education
 
-| ------------------------------------- | ------------------------------------------- | ----- |
+| --------------- | --------------- | --------------- |
 | Doctor of Philosophy | Griffith University | 2018-2022 |
-|*Research topic: **Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss*|
-
+|*Research topic: **Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss***||
 | Engineer of Physics Specialist Degree (Equivalent to Masters 5.6 years) | National Research Tomsk Polytechnic University (Russia) *(402 QS World Ranking, ranked 4th in Russia in Engineering technologies)* | 2009-2015 |
 **GPA 4.8/5**
 
@@ -14,9 +13,29 @@
 - IEEE Antennas and Propagation Society Membership
 
 
+## Skills
+
+- Conducting multidisciplinary research
+- Scientific writing 
+- White papers preparation 
+- Ethics approval applications preparation
+- Numerical modelling
+- High level of presentation skills with experience of presenting results to large international audiences
+- Supervising of research projects for Bachelor and Master Students
+- Knowledge and experience with Vector Network Analyzer
+- Knowledge and experience with ultrasound nondestructive testin equipment, including ultrasonic phased arrays for material inspections
+
+
+- Programming skills:
+  - MATLAB 
+  - Python
+  - CST
+  - Introductuary level of R 
+
+
 ## Work Experience
 
-| ------------------------------------- | ------------------------------------------- | ----- |
+| --------------- | --------------- | --------------- |
 |Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia |*Technician* |2014-2015|
 |TOLMI, Institute of NDT, TPU, Russia |Junior Researcher |2015-2018|
 |School of Engineering and Built Environment, Griffith University, QLD Australia   |PhD Student       |2018-Present|
@@ -61,32 +80,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 - GU Postgraduate Research Scholarship,2018-2022
 - Personal grant for research project under the scope of the “Program supporting young scientists and their projects, UMNIK-2014”
 
-## Research Profile
 
-
-[Google scholar profile](https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao )
-[Scopus profile](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=56433608400&zone= )
-[Research Gate](https://researchgate.net/profile/Yana-Salchak-2)
-
-
-## Skills
-
-- Conducting multidisciplinary research
-- Scientific writing 
-- White papers preparation 
-- Ethics approval applications preparation
-- Numerical modelling
-- High level of presentation skills with experience of presenting results to large international audiences
-- Supervising of research projects for Bachelor and Master Students
-- Knowledge and experience with Vector Network Analyzer
-- Knowledge and experience with ultrasound nondestructive testin equipment, including ultrasonic phased arrays for material inspections
-
-
-- Programming skills:
-  - MATLAB 
-  - Python
-  - CST
-  - Introductuary level of R 
 
 
 ## Projects
@@ -111,10 +105,3 @@ Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 
-![logo]
-
-[logo]:assets/Outlook_small_icon.png "Outlook.com-Logo.wine"
-
-<yasalchak@gmail.com> (or  [mail here](mailto:yasalchak@gmail.com) )
-
-This page was last updated {{ site.datelastupdated }} .
