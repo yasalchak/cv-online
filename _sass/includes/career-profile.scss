@@ -5,5 +5,8 @@
     .details {
         @include body-text;
     }
-    color: var(--fg-color-body);
+    color: #002333;
+    text-decoration:none;
+}
+
 }
