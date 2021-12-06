@@ -1,28 +1,21 @@
 # CV jekyll theme
 
-Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavrospanakakis.com/).
-
-## Features
-- Lightweight
-- Free & Open Source
-- Mobile Responsive
-- Dark Mode Support
+date of birth 02.01.1992 |
+gender Female |
+family status Single | 
+current location| Greenslopes, QLD 4120 Australia
 
 
-## Preview
-![Preview](./preview.png)
+## Education
 
-## Installation
-- [Fork](https://github.com/stavrospanakakis/jekyll-cv/fork) the repository
-- Create a ```gh-pages``` branch
-- Go to Settings and select ```gh-pages``` as Github Pages source
-- Replace dummy data at ```_data/data.yml``` and ```_config.yml```
-- You're done!
+| ------------------------------------- | ------------------------------------------- | ----- |
+| Doctor of Philosophy | Griffith University | 2018-2022 |
+|*Research topic: **Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss*|
 
-Go to https://username.github.io/jekyll-cv/
+| Engineer of Physics Specialist Degree (Equivalent to Masters 5.6 years) | National Research Tomsk Polytechnic University (Russia) *(402 QS World Ranking, ranked 4th in Russia in Engineering technologies)* | 2009-2015 |
+**GPA 4.8/5**
 
-## Contributing 
-- Feel free to open issues and create pull requests for new features or skins
+## Memberships
+- Institute of Electrical and Electronics Engineers (IEEE) Student Membership 
+- IEEE Antennas and Propagation Society Membership
 
-## License
-- [MIT](./LICENSE)
