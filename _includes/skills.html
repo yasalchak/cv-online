@@ -2,12 +2,16 @@
 {% if skills %}
 <section class="skills">
     {% for sks in skills %}
-   <td> 
-        <class="title">{{sks.category}} skills>
-        {% for sk in sks.skill%}
-            <div class="skill">{{sk}}</div>
+    <table>
+       <tr> 
+        <th><class="title">{{sks.category}} skills></th>
+        </tr>
+        <tr>
+            {% for sk in sks.skill%}
+           <td><div class="skill">{{sk}}</div></td>
         {% endfor %}
-   </td>
-    {% endfor %}
+       </tr>     
+     {% endfor %}
+    </table>
 </section>
 {% endif %}
