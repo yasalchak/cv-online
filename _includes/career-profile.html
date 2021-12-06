@@ -8,7 +8,11 @@
 <section class="career-profile">
     <h2 class="title">About Me</h2>
     <p style="color:#002333;">I am Biomedical Enginnering Student finishing my PhD.</p>
+   <table>
+       <th>
     <h1 style="color:var(--fg-color); font-weight: bolder;">Main Skills</h1> 
+        </th>
+        <tr>
     <div class="details"></div>
         <ul>
             {% for detail in profile.items %}
@@ -16,11 +20,9 @@
                 {{detail}}
             </li>
             {%endfor%}
-        </ul>
-  
-   <div class="skills-section">
-     <table>
-        <tr>
+         <div class="skills-section">
+        </tr>
+         <tr>
            <td>{% include languages.html %}</td>
          </tr>
      </table>
