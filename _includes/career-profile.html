@@ -8,11 +8,17 @@
 <section class="career-profile">
     <h2 class="title">About Me</h2>
     <div class="details">{{profile}}</div>
-
-  <div class="skills-section">
+        <ul>
+            {% for detail in profile.items %}
+            <li class="detail">
+                {{detail}}
+            </li>
+            {%endfor%}
+        </ul>
+  
+   <div class="skills-section">
      <table>
         <tr>
-          <td>{% include skills.html %}</td>
            <td>{% include languages.html %}</td>
          </tr>
      </table>
