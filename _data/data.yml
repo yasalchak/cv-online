@@ -23,21 +23,21 @@ languages:
 
 #Education
 education:
- degrees:
-    - degree: MSc in Informatics
-      title: Wireless Endoscopy
-      time: 2018-2022
+  title: Formation
+  degrees:
+    - degree: Doctorat en sciences de la vie
+      title: "Influence des changements climatiques sur la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
+      start: 
+        year: 2017
+        month: 9
+      end:
+        year: Pr&eacute;sent
+        month: 
       location:
-        name: Griffith University
-        city: Brisbane
-        country: Australia
-   - degree: 'Specalist Degree (Equivavlent of MSc, 5.5 years)'
-      title: Engineer of Physics
-      time: 2009-2015
-      location:
-        name: National Research Tomsk Polytechnic University
-        city: Tomsk
-        country: Russia
+        name: Universit&eacute; de Moncton
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
 
 skills:
   - category: Software
