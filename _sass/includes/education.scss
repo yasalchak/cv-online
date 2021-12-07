@@ -27,6 +27,7 @@
         .location {
             @include body-text;
             margin-bottom: 30px;
+            color: var(--fg-color-dark);
 
         }
         .time {
