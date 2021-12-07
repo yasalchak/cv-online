@@ -21,8 +21,6 @@ languages:
       level: native
       code: ru
 
-
-
 education:
   title: Education
   degrees:
@@ -42,7 +40,6 @@ education:
         city: Tomsk
         province: Russia
         country: Russia
-
 
 skills:
   - category: Software
