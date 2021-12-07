@@ -2,8 +2,15 @@
 {% if languages %}
 <section class="languages">
     <!-- <div class="title">Languages</div> -->
-    {% for lang in languages %}
-        <div class="idiom">{{lang.idiom}}</div>
-    {% endfor %}
+    <div class="idioms">
+        {% for idiom in languages.idioms %}
+        <div>
+            <span class="flag-icon flag-icon-{{idiom.code}}"></span>
+            <span class="idiom">
+                {{idiom.name}} {{idiom.level | prepend: "(" | append: ")"}}
+            </span>
+        </div>
+        {% endfor %}
+    </div>
 </section>
 {% endif %}
