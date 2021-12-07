@@ -12,7 +12,7 @@
 
         .item-header {
             display: grid;
-            grid-auto-columns: 50px;
+            grid-auto-columns: 230px;
             
 
 
@@ -36,7 +36,7 @@
             grid-column: 2;
             text-align: end;
             font-weight: bold;
-            color: #002333;
+            color: var(--fg-color-dark);
                         
         }
         
