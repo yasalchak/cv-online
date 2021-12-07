@@ -140,15 +140,15 @@ volunteering:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       
 references:
-  title: "Ref"
+  title: "References"
   persons:
-    - name: FraBolduc
-      job: "Chef, Unit&eacute; des milieux marins et aquatiques r&eacute;gion du Qu&eacute;bec"
-      location: Environnement et Changement climatique Canada
-      email: francois.bolduc@canada.ca
-      phone: (418) 640-2910
-    - name: Nicolas Lecomte
-      job: Professeur Agreacute;gcute;
-      location: Universit&eacute; de Moncton
-      email: nicolas.lecomte@umoncton.ca
-      phone: (506) 858-4291
+    - name: David Thieel
+      job: Professor Emeritus
+      location: Griffith University
+      email: d.thiel@griffith.edu.au
+      phone: +61737357192
+    - name: Hugo Espinosa
+      job: Senior Lecturer 
+      location: Griffith University
+      email: h.espinosa@griffith.edu.au
+      phone: +61408709204
