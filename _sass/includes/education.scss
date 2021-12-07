@@ -14,8 +14,7 @@
         .item-header {
             display: grid;
             grid-auto-columns: 230px;
-            
-
+            justify-content: space-around;
 
             
         }
@@ -24,6 +23,8 @@
             font-weight: bold;
             grid-row: 1;
             grid-column: 1;
+            justify-content: space-around;
+
         }
         .location {
             @include body-text;
