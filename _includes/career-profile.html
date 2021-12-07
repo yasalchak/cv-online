@@ -13,7 +13,7 @@
    <th>
     <h1 style="color:var(--fg-color);">Main Skills</h1> 
    </th>
-    <th> <section class="languages"></th>
+    <th> </th>
    </tr>
    <tr>
       <td>
@@ -23,7 +23,10 @@
             </li>
             {%endfor%}
       </td>
-      <td>{% include languages.html %}</td>
+      <td>
+         <section class="languages">
+         {% include languages.html %}
+      </td>
     </tr>
   </table>
      
