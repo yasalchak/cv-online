@@ -5,7 +5,10 @@
     .education-item {
         margin-bottom: 12px;
 
-
+        > * {
+            margin-bottom: 3px;
+        }
+        
         .item-header {
             display: grid;
             grid-gap: 50px;
@@ -23,7 +26,8 @@
         .time {
             @include body-text;
         }
-          .degree_title {
+        
+        .degree_title {
             @include body-text;
             font-style: italic;
         }
