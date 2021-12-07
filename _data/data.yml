@@ -22,8 +22,7 @@ languages:
       code: ru
 
 education:
-  title: Education
-  degrees:
+   degrees:
     - degree: 'PhD'
       title: "Wireless Endoscopy"
       time: 2018-2022
