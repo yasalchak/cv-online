@@ -25,6 +25,8 @@
         }
         .location {
             @include body-text;
+            margin-bottom: 30px;
+
         }
         .time {
             @include body-text;
@@ -37,7 +39,6 @@
         .degree_title {
             @include body-text;
             font-style: italic;
-            margin-bottom: 30px;
 
         }
     }
