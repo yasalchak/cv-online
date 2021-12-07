@@ -31,7 +31,7 @@ body {
 
 
 .container {
-    title {
+    .title {
         @include header;
     }
     max-width: 900px;
