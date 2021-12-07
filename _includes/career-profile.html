@@ -9,18 +9,27 @@
     <h2 class="title">About Me</h2>
     <p style="color:#002333;">I am Biomedical Enginnering Student finishing my PhD.</p>
    <table>
-       <th>
+  <tr>
+   <th>
     <h1 style="color:var(--fg-color);">Main Skills</h1> 
-        </th>
-      <tr>
-         <ul>
-          <div class="details"></div>
-          <div class="skills-section"></div>
-        </tr>
-         <tr>
-           <td>{% include languages.html %}</td>
-         </tr>
-     </table>
+   </th>
+    <th> </th>
+   </tr>
+  <tr>
+   <td>
+      <ul>
+         {% for detail in profile.items %}
+            <li class="detail">
+                {{detail}}
+            </li>
+            {%endfor%}
+      <div class="skills-section"></div>
+        </td>
+         <td>
+           {% include languages.html %}</td>
+         </td>
+  </tr>
+ </table>
      
 
  
