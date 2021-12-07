@@ -12,8 +12,14 @@ contact:
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
+  title: Languages
+  idioms:
+    - name: English
+      level: advanced
+      code: gb
+    - name: Russian
+      level: native
+      code: rus
 
 
 education:
