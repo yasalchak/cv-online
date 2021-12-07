@@ -4,11 +4,25 @@
     <div class="title">Education</div>
     {% for ed in education %}
         <div class="education-item">
+            <div class="item-header">
             <div class="degree">{{ed.degree}}>
+            </div>  
             <div class="university">{{ed.university}}
                 </div> 
             <div class="time">{{ed.time}}
                 </div>
+        <div class="location">
+            {{location.name}}
+            {%- if location.city -%}
+            {{location.city | prepend: ", "}}
+            {%- endif -%}
+            {%- if location.province -%}
+            {{location.province | prepend: ", "}}
+            {%- endif -%}
+            {%- if location.country -%}
+            {{location.country | prepend: ", "}}
+            {%- endif -%}
+        </div>        
         </div>
     {% endfor %}
 </section>
