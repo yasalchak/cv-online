@@ -153,68 +153,7 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-# Volunteering
-volunteering:
-  - time: #
-    role: APMC 2021
-    company: Brisbane, Queensland Australia (vitually due to COVID-19)
-    details: |
-      Preparation of the abstracts for presentations at the Asian Pacific Microwave Conference.
-      
-  - time: #
-    role: IEEE APS/URSI 2020
-    company: Montreal, Canada (virtually due to COVID19)
-    details: |
-      Oral presentation “Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function’’ at the 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting. 
- 
- - time: #
-    role: EuCAP 2020
-    company: Copenhagen, Denmark (virtually due to COVID19)
-    details: |
-      Poster “E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter’’ at the 14th European Conference on Antennas and Propagation.
-  
- - time: #
-    role: ASA 2019
-    company: Sydney, Australia
-    details: |
-      Oral presentation “Wireless endoscopy localization algorithm based on surface electric field distribution’’ at the 16th Australian Symposium on Antennas.
- 
- - time: Summer 2017
-    role: RACIRI Summer School “Grand Challenges and Opportunities with the Best X-ray and Neutron Sources”
-    company: Ronneby, Sweden, August 
-    details: |
-      Summer School.
- 
- - time: #
-    role:  ICAPP 2016
-    company: San Francisco, USA
-    details: |
-      Oral presentation at the “International Congress on Advances in Nuclear Power Plants”.
- 
- - time: #
-    role:  ICU 2015
-    company: Metz, France
-    details: |
-      Oral presentation at the conference “International congress on ultrasonics”.
- 
- - time: #
-    role:  The IV Conference of Young nuclear scientists of Siberia 2014
-    company: Tomsk, Russia 
-    details: |
-      Oral presentation at the “The IV Conference of Young nuclear scientists of Siberia"
- 
- - time: July, 2019
-    role:  3-day course “Introduction to Python, Bash and Git for Data Science"
-    company: Griffith University, Brisbane, Australia
- 
- - time: November, 2017
-    role:  “Author Academy” 2-day intensive training in academic writing and publishing by Nature Research Academies
-    company: National research Tomsk Polytechnic University, Tomsk, Russia
- 
- - time: 3133 hours, 2009-2014
-    role:  “Elite Engineering Education Programme” aiming at acquiring competencies in Engineering leadership and innovation
-    company: National research Tomsk Polytechnic University, Tomsk, Russia
-    
+
    
             
       
