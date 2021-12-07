@@ -12,7 +12,13 @@
                 </div> 
             <div class="time">{{degree.time}}
                 </div>
-        <div class="location">
+           </div>
+          {%- if degree.title and site.show_degree_title -%}
+          <div class="degree_title">
+                  {{degree.title}}
+           </div>
+          {%-endif-%}
+          <div class="location">
             {{location.name}}
             {%- if location.city -%}
             {{location.city | prepend: ", "}}
@@ -23,8 +29,7 @@
             {%- if location.country -%}
             {{location.country | prepend: ", "}}
             {%- endif -%}
-        </div>        
-        </div>
+          </div>
     {% endfor %}
 </section>
 {% endif %}
