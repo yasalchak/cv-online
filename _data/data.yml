@@ -31,9 +31,9 @@ education:
       time: 2018-2022
       location:
         name: Griffith University
-        city: Brisbane, QLD
-        province: Australia
-
+        city: Brisbane
+        province: QLD
+        country: Australia
    - degree: Specalist Degree (Equivavlent of MSc, 5.5 years)
       title: Engineer of Physics
       time: 2009-2015
@@ -41,6 +41,7 @@ education:
         name: National Research Tomsk Polytechnic University
         city: Tomsk
         province: Russia
+        country: Russia
 
 
 skills:
