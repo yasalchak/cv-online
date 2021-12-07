@@ -13,19 +13,17 @@
    <th>
     <h1 style="color:var(--fg-color);">Main Skills</h1> 
    </th>
-    <th> <section class="languages">
-    <div class="title">Languages</div>
-       </th>
+    <th> <section class="languages"></th>
    </tr>
    <tr>
-    <td>
-       {% for detail in profile.items %}
+      <td>
+          {% for detail in profile.items %}
             <li class="detail">
                 {{detail}}
             </li>
             {%endfor%}
       </td>
-          <td>{% include languages.html %}</td>
+      <td>{% include languages.html %}</td>
     </tr>
   </table>
      
