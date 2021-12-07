@@ -1,15 +1,5 @@
 
 
-## Work Experience
-
-| --------------- | --------------- | --------------- |
-|Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia |*Technician* |2014-2015|
-|TOLMI, Institute of NDT, TPU, Russia |Junior Researcher |2015-2018|
-|School of Engineering and Built Environment, Griffith University, QLD Australia   |PhD Student       |2018-Present|
-|School of Engineering and Built Environment, Griffith University, QLD Australia|Tutor for Calculus II |2019-2020|
-|Griffith University|Tutor for Research Methods & Statistics for Engineers |2018-2021|
-|Griffith University|Casual Lecturer for Research Methods & Statistics for Engineers |2021|
-
 ## Conferences/workshops
 **Brisbane, Queensland Australia (vitually due to COVID-19), APMC 2021**
 Preparation of the abstracts for presentations at the Asian Pacific Microwave Conference
@@ -47,6 +37,19 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 - GU Postgraduate Research Scholarship,2018-2022
 - Personal grant for research project under the scope of the “Program supporting young scientists and their projects, UMNIK-2014”
 
+## Publications
+
+**Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations**
+Y. A. Salchak, H. G. Espinosa, and D. V. Thiel 2020 
+*IEEE Transactions on Biomedical Engineering, vol. 67 (2)*
+DOI: 10.1109/TBME.2019.2916632
+
+**Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function**
+Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa
+*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*
+[Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
+
+
 
 
 
@@ -59,16 +62,5 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook) -->
 
 
-## Publications
-
-**Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations**
-Y. A. Salchak, H. G. Espinosa, and D. V. Thiel 2020 
-*IEEE Transactions on Biomedical Engineering, vol. 67 (2)*
-DOI: 10.1109/TBME.2019.2916632
-
-**Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function**
-Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa
-*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*
-[Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 
