@@ -25,21 +25,21 @@ languages:
 education:
   title: Education
   degrees:
-    - degree: PhD
-      title: "Wireless Endoscopy"
+    - degree: Doctor of Philosophy
+      title: "Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss"
       time: 2018-2022
       location:
         name: Griffith University
         city: Brisbane
         country: Australia
     
-    - degree: PhD
-      title: "Wireless Endoscopy"
-      time: 2018-2022
+    - degree:  Engineer of Physics Specialist Degree (Equivalent to Masters 5.5 years) 
+      time: 2009-2015
+      title: GPA 4.8/5
       location:
-        name: Griffith University
-        city: Brisbane
-        country: Australia
+        name: National Research Tomsk Polytechnic University(288 QS World Ranking in Engineering&Technology)
+        city: Tomsk
+        country: Russia
     
 
 
