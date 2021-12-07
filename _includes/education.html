@@ -3,6 +3,7 @@
 <section class="education">
     <div class="title">Education</div>
     {% for ed in education %}
+    {% assign location = degree.location %}
         <div class="education-item">
             <div class="item-header">
             <div class="degree">{{ed.degree}}>
