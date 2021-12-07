@@ -6,4 +6,11 @@
     .idiom {
         @include body-text;
     }
+    
+    
+    .idioms {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
 }
