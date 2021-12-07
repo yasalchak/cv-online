@@ -5,12 +5,11 @@
     <div class="idioms">
         {% for idiom in languages.idioms %}
         <div>
-            <span class="flag-icon flag-icon-{{idiom.code}}"></span>
-            <ul>
+            <span class="flag-icon flag-icon-{{idiom.code}}"></span><br>
             <span class="idiom">
                 {{idiom.name}} {{idiom.level | prepend: "(" | append: ")"}}
             </span>
-             <ul>
+           
         </div>
         {% endfor %}
     </div>
