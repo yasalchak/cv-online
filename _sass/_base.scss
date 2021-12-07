@@ -29,6 +29,9 @@ body {
 //     overflow: hidden;
 }
 
+ .title {
+        @include sub-header;
+  }
 
 .container {
 
