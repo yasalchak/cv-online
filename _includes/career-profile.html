@@ -22,8 +22,14 @@
             {%endfor%}
       </td>
       <td>
-          Russian      
-          English
+    <div class="idioms">
+        {% for idiom in languages.idioms %}
+        <div>
+            <span class="flag-icon flag-icon-{{idiom.code}}"></span>
+            <span class="idiom">
+                {{idiom.name}} {{idiom.level | prepend: "(" | append: ")"}}
+            </span>
+        </div>
        </td>
    </tr>
   </table>
