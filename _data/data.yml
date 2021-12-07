@@ -23,7 +23,7 @@ languages:
 
 #Education
 education:
-  title: Education
+  title: EDUCATION
   degrees:
     - degree: Doctor of Philosophy
       title: "Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss"
@@ -165,7 +165,7 @@ volunteering:
 
       
 references:
-  title: "References"
+  title: "REFERENCES"
   persons:
     - name: David Thiel
       job: Professor Emeritus
