@@ -12,7 +12,7 @@
 
         .item-header {
             display: grid;
-            grid-auto-columns: 30px;
+            grid-auto-columns: 50px;
             
 
 
@@ -27,7 +27,7 @@
         .location {
             @include body-text;
             margin-bottom: 30px;
-            color: var(--fg-color-dark);
+            color: #002333;
 
         }
         .time {
@@ -36,8 +36,8 @@
             grid-column: 2;
             text-align: end;
             font-weight: bold;
-            grid-gap: 30px 30px;
-            
+            color: #002333;
+                        
         }
         
         .degree_title {
