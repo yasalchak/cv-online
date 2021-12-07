@@ -22,14 +22,26 @@ languages:
       code: ru
 
 
-education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+education:
+  title: Education
+  degrees:
+    - degree: PhD
+      title: "Wireless Endoscopy"
+      time: 2018-2022
+      location:
+        name: Griffith University
+        city: Brisbane, QLD
+        province: Australia
+
+   - degree: Specalist Degree (Equivavlent of MSc, 5.5 years)
+      title: Engineer of Physics
+      time: 2009-2015
+      location:
+        name: National Research Tomsk Polytechnic University
+        city: Tomsk
+        province: Russia
+
 
 skills:
   - category: Software
