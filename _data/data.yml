@@ -23,9 +23,9 @@ languages:
 
 #Education
 education:
-  degrees:
+ degrees:
     - degree: MSc in Informatics
-      title: "Wireless Endoscopy"
+      title: Wireless Endoscopy
       time: 2018-2022
       location:
         name: Griffith University
