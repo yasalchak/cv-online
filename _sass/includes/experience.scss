@@ -1,25 +1,42 @@
-.experiance {
+.experience {
     .title {
         @include header;
     }
     .experience-item {
+        margin-bottom: 12px;
+
+        > * {
+            margin-bottom: 3px;
+        }
+
+        .item-header {
+            display: grid;
+            grid-gap: 50px;
+            
+        }
+
         .role {
             @include sub-header;
         }
-        .company {
+
+        .time {
             @include body-text;
+            grid-row: 1;
+            grid-column: 2;
+            text-align: end;
             font-weight: bold;
-            .time {
-                float: right;
-                color: var(--fg-color-title-sm);
-                font-weight: 100;
-            }
+        }
+
+        .location {
+            @include body-text;
         }
         .details {
             @include body-text;
-        }
-        .technologies {
-            @include body-text;
+            ul {
+                margin-top: 5px;
+                margin-bottom: 0;
+                // padding-left: 15px;
+            }
         }
     }
 }
