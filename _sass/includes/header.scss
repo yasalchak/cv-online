@@ -27,8 +27,6 @@
     }
     .image{
     width: auto;
-    height: auto;
-    overflow: hidden;
     object-fit: cover;
     text-align: left;
     padding-top: 2.5rem;
@@ -36,6 +34,7 @@
     .profile img{
     width: 14rem;
     height: 14rem;
+    object-fit: cover;
     border-radius: 50%;
     border: 5px solid #002333;
     
