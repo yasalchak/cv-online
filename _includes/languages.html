@@ -6,6 +6,7 @@
         {% for idiom in languages.idioms %}
         <div>
             <span class="flag-icon flag-icon-{{idiom.code}}"></span>
+            <ul>
             <span class="idiom">
                 {{idiom.name}} {{idiom.level | prepend: "(" | append: ")"}}
             </span>
