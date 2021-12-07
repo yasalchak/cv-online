@@ -1,4 +1,8 @@
 
+## Memberships
+- Institute of Electrical and Electronics Engineers (IEEE) Student Membership 
+- IEEE Antennas and Propagation Society Membership
+
 
 ## Education
 
@@ -8,29 +12,6 @@
 | Engineer of Physics Specialist Degree (Equivalent to Masters 5.6 years) | National Research Tomsk Polytechnic University (Russia) *(402 QS World Ranking, ranked 4th in Russia in Engineering technologies)* | 2009-2015 |
 **GPA 4.8/5**
 
-## Memberships
-- Institute of Electrical and Electronics Engineers (IEEE) Student Membership 
-- IEEE Antennas and Propagation Society Membership
-
-
-## Skills
-
-- Conducting multidisciplinary research
-- Scientific writing 
-- White papers preparation 
-- Ethics approval applications preparation
-- Numerical modelling
-- High level of presentation skills with experience of presenting results to large international audiences
-- Supervising of research projects for Bachelor and Master Students
-- Knowledge and experience with Vector Network Analyzer
-- Knowledge and experience with ultrasound nondestructive testin equipment, including ultrasonic phased arrays for material inspections
-
-
-- Programming skills:
-  - MATLAB 
-  - Python
-  - CST
-  - Introductuary level of R 
 
 
 ## Work Experience
