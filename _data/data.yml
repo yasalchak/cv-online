@@ -23,30 +23,24 @@ languages:
 
 #Education
 education:
-  title: Formation
+  title: Education
   degrees:
-    - degree: Doctorat en sciences de la vie
-      title: "Influence des changements climatiques sur la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
-      time: 2014-2016
+    - degree: PhD
+      title: "Wireless Endoscopy"
+      time: 2018-2022
       location:
-        name: Universit&eacute; de Moncton
-        city: Moncton
-        province: Nouveau-Brunswick
-        country: Canada
+        name: Griffith University
+        city: Brisbane
+        country: Australia
     
-    - degree: Doctorat en sciences de la vie
-      title: "Influence des changements climatiques sur la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
-      start: 
-        year: 2017
-        month: 9
-      end:
-        year: Pr&eacute;sent
-        month: 
+    - degree: PhD
+      title: "Wireless Endoscopy"
+      time: 2018-2022
       location:
-        name: Universit&eacute; de Moncton
-        city: Moncton
-        province: Nouveau-Brunswick
-        country: Canada 
+        name: Griffith University
+        city: Brisbane
+        country: Australia
+    
 
 
 skills:
