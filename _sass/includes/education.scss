@@ -8,7 +8,7 @@
 
         .item-header {
             display: grid;
-            grid-gap: 50px;
+            grid-gap: 30px;
             
         }
         .degree {
@@ -22,6 +22,10 @@
         }
         .time {
             @include body-text;
+            grid-row: 1;
+            grid-column: 2;
+            text-align: end;
+            font-weight: bold;
         }
         
         .degree_title {
