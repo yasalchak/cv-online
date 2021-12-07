@@ -81,9 +81,9 @@ profile:
   
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: PhD Student 
+    time: 2018-Present
+    company: Griffith University (Brisbane, Australia)
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -91,11 +91,23 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
-  
+      MATLAB, CST, Python, VNA, RF Spectrum Analyzer, Dream Catcher RadPat, Ultrasound Imaging system and Visual Studio
+      
+  - role: Tutor for Research Methods & Statistics for Engineers
+    time: 2018-2021
+    company: Griffith University (Brisbane, Australia)
+    details: |
+      Statistics and Research Methods.Lectures. 
+        
+  - role: Tutor for Calculus II 
+    time: 2018-2021
+    company: Griffith University (Brisbane, Australia)
+    details: |
+      Statistics and Research Methods.Lectures. 
+      
   - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+    time: 2015-2018
+    company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -103,8 +115,20 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
+      MATLAB, CIVA, Ultrasound tomography systems, UT A-Scan systems
+      
+  - role: Technician
+    time: 2014-2015
+    company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+   
+      
+      
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
