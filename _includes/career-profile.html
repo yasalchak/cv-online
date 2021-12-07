@@ -19,17 +19,13 @@
    </tr>
    <tr>
     <td>
-      <ul>
-         {% for detail in profile.items %}
+       {% for detail in profile.items %}
             <li class="detail">
                 {{detail}}
             </li>
             {%endfor%}
-      <div class="skills-section"></div>
-         </td>
-          <td>
-           {% include languages.html %}
-         </td>
+      </td>
+          <td>{% include languages.html %}</td>
     </tr>
   </table>
      
