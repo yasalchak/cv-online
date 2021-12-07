@@ -1,20 +1,20 @@
 ---
 ---
 
-@import "{{site.css_theme}}/base";
-@import "{{site.css_theme}}/print";
-@import "{{site.css_theme}}/responsive";
-@import "{{site.css_theme}}/mixins";
+@import "{{site}}/base";
+@import "{{site}}/print";
+@import "{{site}}/responsive";
+@import "{{site}}/mixins";
 @import "skins/{{ site.theme_skin}}";
 
-@import "{{site.css_theme}}/includes/header";
-@import "{{site.css_theme}}/includes/career-profile";
-@import "{{site.css_theme}}/includes/contact";
-@import "{{site.css_theme}}/includes/languages";
-@import "{{site.css_theme}}/includes/education";
-@import "{{site.css_theme}}/includes/skills";
-@import "{{site.css_theme}}/includes/experience";
-@import "{{site.css_theme}}/includes/publications";
-@import "{{site.css_theme}}/includes/projects";
-@import "{{site.css_theme}}/includes/volunteering";
-@import "{{site.css_theme}}/includes/references";
+@import "{{site}}/includes/header";
+@import "{{site}}/includes/career-profile";
+@import "{{site}}/includes/contact";
+@import "{{site}}/includes/languages";
+@import "{{site}}/includes/education";
+@import "{{site}}/includes/skills";
+@import "{{site}}/includes/experience";
+@import "{{site}}/includes/publications";
+@import "{{site}}/includes/projects";
+@import "{{site}}/includes/volunteering";
+@import "{{site}}/includes/references";
