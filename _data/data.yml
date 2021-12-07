@@ -24,22 +24,30 @@ languages:
 education:
   title: Education
   degrees:
-    - degree: PhD
+    - degree: 'PhD'
       title: "Wireless Endoscopy"
       time: 2018-2022
       location:
         name: Griffith University
         city: Brisbane
-        province: QLD
         country: Australia
-   - degree: Specalist Degree (Equivavlent of MSc, 5.5 years)
+   - degree: 'Specalist Degree (Equivavlent of MSc, 5.5 years)'
       title: Engineer of Physics
       time: 2009-2015
       location:
         name: National Research Tomsk Polytechnic University
         city: Tomsk
-        province: Russia
         country: Russia
+    - degree: 'Baccalaur&eacute;at scientifique, mention "Bien"'
+      end:
+        year: 2003
+      location:
+        name: Lyc&eacute;e Van Gogh
+        city: Ermont
+        country: France
+
+
+
 
 skills:
   - category: Software
