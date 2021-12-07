@@ -19,7 +19,7 @@ languages:
       code: gb
     - name: Russian
       level: native
-      code: rus
+      code: ru
 
 
 education:
