@@ -1,10 +1,10 @@
 ---
 ---
 
-@import "{{site}}/base";
-@import "{{site}}/print";
-@import "{{site}}/responsive";
-@import "{{site}}/mixins";
+@import "base";
+@import "print";
+@import "responsive";
+@import "mixins";
 @import "skins/{{ site.theme_skin}}";
 
 @import "{{site}}/includes/header";
