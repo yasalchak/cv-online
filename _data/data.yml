@@ -27,6 +27,15 @@ education:
   degrees:
     - degree: Doctorat en sciences de la vie
       title: "Influence des changements climatiques sur la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
+      time: 2014-2016
+      location:
+        name: Universit&eacute; de Moncton
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada
+    
+    - degree: Doctorat en sciences de la vie
+      title: "Influence des changements climatiques sur la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
       start: 
         year: 2017
         month: 9
@@ -38,6 +47,7 @@ education:
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
+
 
 skills:
   - category: Software
