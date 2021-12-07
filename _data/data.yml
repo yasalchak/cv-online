@@ -24,7 +24,7 @@ languages:
 #Education
 education:
   degrees:
-    - degree: 'PhD'
+    - degree: MSc in Informatics
       title: "Wireless Endoscopy"
       time: 2018-2022
       location:
@@ -38,9 +38,6 @@ education:
         name: National Research Tomsk Polytechnic University
         city: Tomsk
         country: Russia
-
-
-
 
 skills:
   - category: Software
