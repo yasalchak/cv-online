@@ -23,3 +23,6 @@ plugins:
 
 exclude:
   - docker-compose.yml
+
+
+show_degree_title: True
