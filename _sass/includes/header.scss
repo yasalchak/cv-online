@@ -30,6 +30,7 @@
     height: auto;
     object-fit: scale-down;
     object-position: bottom;
+    overflow: hidden;
     text-align: left;
     padding-top: 0.5rem;
     }
@@ -37,6 +38,8 @@
     width: 14.5rem;
     height: 14.5rem;
     object-fit: scale-down;
+    object-position: bottom;
+    overflow: hidden;
     border-radius: 50%;
     border: 5px solid #002333;
     
