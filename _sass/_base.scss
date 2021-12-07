@@ -31,6 +31,9 @@ body {
 
 
 .container {
+    title {
+        @include header;
+    }
     max-width: 900px;
     min-height: 900px;
     margin: 0 auto;
@@ -45,7 +48,7 @@ body {
         padding:20px;
         display: grid;
         grid-template-columns: 2fr 5fr;
-        @include sub-header;
+        
         .sidebar {
             margin-top: 20px;
         }
