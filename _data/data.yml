@@ -21,8 +21,10 @@ languages:
       level: native
       code: ru
 
+#Education
 education:
-   degrees:
+  title: Education
+  degrees:
     - degree: 'PhD'
       title: "Wireless Endoscopy"
       time: 2018-2022
@@ -37,13 +39,6 @@ education:
         name: National Research Tomsk Polytechnic University
         city: Tomsk
         country: Russia
-    - degree: 'Baccalaur&eacute;at scientifique, mention "Bien"'
-      end:
-        year: 2003
-      location:
-        name: Lyc&eacute;e Van Gogh
-        city: Ermont
-        country: France
 
 
 
