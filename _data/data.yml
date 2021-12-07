@@ -23,7 +23,6 @@ languages:
 
 #Education
 education:
-  title: Education
   degrees:
     - degree: 'PhD'
       title: "Wireless Endoscopy"
