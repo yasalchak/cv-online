@@ -2,14 +2,12 @@
 {% if education %}
 <section class="education">
     <div class="title">Education</div>
-    {% for degree in education %}
+    {% for degree in education.degrees %}
     {% assign location = degree.location %}
         <div class="education-item">
             <div class="item-header">
             <div class="degree">{{degree.degree}}>
             </div>  
-            <div class="university">{{ed.university}}
-                </div> 
             <div class="time">{{degree.time}}
                 </div>
            </div>
