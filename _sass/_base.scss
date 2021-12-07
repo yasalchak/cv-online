@@ -29,9 +29,6 @@ body {
 //     overflow: hidden;
 }
 
-.title {
-        @include sub-header;
-    }
 
 .container {
     max-width: 900px;
@@ -51,5 +48,8 @@ body {
         .sidebar {
             margin-top: 20px;
         }
+        .title {
+        @include sub-header;
+    }
     }
 }
