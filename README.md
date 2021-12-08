@@ -182,7 +182,7 @@ DOI: (http://www.scientific.net/AMR.1040.937)
 
 
 "*" Corresponding Author\
-*Due to translation from Russian language, first name spelling has two variations:\*
+*Due to translation from Russian language, first name spelling has two variations:\
 **Yana (preferred)** and **Iana (official)**. **Both variants are correct.**
 
 <!-- ## Projects
