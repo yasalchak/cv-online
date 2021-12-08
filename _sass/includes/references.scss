@@ -11,7 +11,7 @@
     }
     .name {
         @include sub-header
-        color: var(--fg-color-dark)
+        color: var(--fg-color-dark);
     }
 
     .contact-item {
