@@ -160,19 +160,12 @@ volunteering:
     company: Brisbane, Queensland Australia (virtually due to COVID)
     details: |
       Preparation of the abstract for for presentations at the Asian Pacific Microwave Conference. One of the abstracts received an award.
-  - time: 2021
-    role: APMC 2021
+  - time: #
+    role: APS/URSI 2020
     company: Brisbane, Queensland Australia (virtually due to COVID)
     details: |
       Preparation of the abstract for for presentations at the Asian Pacific Microwave Conference. One of the abstracts received an award.
-   - time: #
-    role: IEEE APS/URSI 2020
-    company: Montreal, Canada (virtually due to COVID19)
-    details: |
-      Oral presentation “Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function’’ at the 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting. 
- 
-
-
+   
       
 references:
   title: "REFERENCES"
