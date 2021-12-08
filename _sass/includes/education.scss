@@ -36,8 +36,7 @@
             @include body-text;
             margin-bottom: 30px;
             color: #002333;
-            grid-auto-columns: 300px;
-            justify-content: space-around;
+            padding-left: 90px;
 
 
         }
@@ -56,7 +55,7 @@
             font-style: italic;
             grid-auto-columns: 300px;
             justify-content: space-around;
-            padding-left: 100px;
+            padding-left: 90px;
             
         }
     }
