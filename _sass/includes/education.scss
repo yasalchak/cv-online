@@ -12,7 +12,8 @@
         .item-header {
             display: grid;
             grid-auto-columns: 300px;
-            
+            justify-content: space-around;
+
 
 
             
@@ -28,6 +29,7 @@
             @include body-text;
             margin-bottom: 30px;
             color: #002333;
+            grid-auto-columns: 300px;
             justify-content: space-around;
 
 
@@ -45,9 +47,8 @@
         .degree_title {
             @include body-text;
             font-style: italic;
+            grid-auto-columns: 300px;
             justify-content: space-around;
-
-
         }
     }
 }
