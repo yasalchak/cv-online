@@ -1,8 +1,14 @@
 .education {
+    .degrees{
+
+        justify-content: space-around;
+    }
     .title {
         @include header;
     }
+    
     .education-item {
+        justify-content: space-around;
         margin-bottom: 12px;
 
         > * {
