@@ -85,51 +85,40 @@ profile:
   
 # Experience
 experience:
-  - role: PhD Student 
+  - role: PhD Student (full-time)
     time: 2018-Present
     company: Griffith University (Brisbane, Australia)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Describe my project here and what I have done including th in-vivo experiments. publications numbers[]
     technologies_used: | 
-      MATLAB, CST, Python, VNA, RF Spectrum Analyzer, Dream Catcher RadPat, Ultrasound Imaging system and Visual Studio
+      MATLAB, CST, Python, VNA, RF Spectrum Analyzer, Dream Catcher RadPat,\
+      Ultrasound Imaging system and Visual Studio
       
-  - role: Tutor for Research Methods & Statistics for Engineers
+  - role: Tutor for Research Methods & Statistics for Engineers (casual)
     time: 2018-2021
     company: Griffith University (Brisbane, Australia)
     details: |
-      Statistics and Research Methods.Lectures. 
+      Statistics and Research Methods.Emphasise on stats. Include Lectures for Master and Bachelor Students. 
         
-  - role: Tutor for Calculus II 
+  - role: Tutor for Calculus II (casual)
     time: 2018-2021
     company: Griffith University (Brisbane, Australia)
     details: |
-      Statistics and Research Methods.Lectures. 
+      Master and Bachelor Students (SETs?). 
       
-  - role: Researcher
+  - role: Researcher (full-time)
     time: 2015-2018
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Describe main projects. publications numbers[]
     technologies_used: | 
-      MATLAB, CIVA, Ultrasound tomography systems, UT A-Scan systems
+      MATLAB, CIVA, Ultrasound tomography systems, A-Scan systems
       
-  - role: Technician
+  - role: Engineer (part-time)
     time: 2014-2015
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Mainly case hardening testing.Include internship in Saarbrucken Germany with Kroening. publications numbers[]
    
       
       
@@ -163,7 +152,8 @@ volunteering:
     role: APMC 2021
     company: Brisbane,QLD Australia (virtually due to COVID)
     details: |
-      Preparation of the abstract for for presentations at the Asian Pacific Microwave Conference. One of the abstracts received an award.
+      Preparation of the abstract for for presentations at the Asian Pacific Microwave Conference:"A Cavity-Backed Slot Antenna on Timber " and "A Buried Cavity Backed Slot Antenna for
+Agriculture and Infrastructure Monitoring".
   - time: #
     role: APS/URSI 2020
     company: Montreal, Canada (virtually due to COVID19)
