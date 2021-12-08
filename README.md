@@ -104,14 +104,18 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 
 **Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations**
 Y. A. Salchak, H. G. Espinosa, and D. V. Thiel 2020 
-*IEEE Transactions on Biomedical Engineering, vol. 67 (2)*
+*IEEE Transactions on Biomedical Engineering, vol. 67 (2)*\
 DOI: 10.1109/TBME.2019.2916632
 
 **Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function**
 Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa
-*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*
+*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*\
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
+**E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter**
+N. Albadri, Y. A. Salchak, D. V. Thiel and H. G. Espinosa,
+*2020 14th European Conference on Antennas and Propagation (EuCAP), Copenhagen, Denmark, 2020, pp. 1-5*\
+DOI: 10.23919/EuCAP48036.2020.9136021.
 
 
 
