@@ -1,5 +1,5 @@
 
-
+<!--   
 
 **Brisbane, Queensland Australia (vitually due to COVID-19), APMC 2021**
 Preparation of the abstracts for presentations at the Asian Pacific Microwave Conference
@@ -31,7 +31,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 
 *National research Tomsk Polytechnic University “Elite Engineering Education Programme” aiming at acquiring competencies in Engineering leadership and innovation (3133 hours, 2009-2014)*
 
-<!--   
+
   - time: #
     role: APMC 2021
     company: Brisbane, Queensland Australia (vitually due to COVID-19)
