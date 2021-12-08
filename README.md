@@ -102,7 +102,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 
 ## Publications
 
-**1. Surface Electric Field Variations due to Different Human Postures for Wireless Endoscopy Applications,**\
+**[1] Surface Electric Field Variations due to Different Human Postures for Wireless Endoscopy Applications,**\
 Y. A. Salchak*, N. M. Albadri, M. T.O. Worsey, H.G. Espinosa, D. V. Thiel,\
 *IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-11, 2021, Art no. 1009511*
 DOI: 10.1109/TIM.2021.3111998.
@@ -181,7 +181,8 @@ M. Kroening, D. Sednev, Y. Salchak*,\
 DOI: (http://www.scientific.net/AMR.1040.937)
 
 
-"*" Corresponding Author\ * Due to translation from Russian language, first name spelling has two variations:\*
+"*" Corresponding Author\
+*Due to translation from Russian language, first name spelling has two variations:\*
 **Yana (preferred)** and **Iana (official)**. **Both variants are correct.**
 
 <!-- ## Projects
