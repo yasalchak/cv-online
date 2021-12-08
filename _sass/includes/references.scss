@@ -10,8 +10,8 @@
         @include header;
     }
     .name {
+        color: var(--fg-color-dark);
         @include sub-header;
-        &:color: var(--fg-color-dark);
      
     }
 
