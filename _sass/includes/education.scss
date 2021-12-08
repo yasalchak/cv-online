@@ -28,6 +28,8 @@
             @include body-text;
             margin-bottom: 30px;
             color: #002333;
+            justify-content: space-around;
+
 
         }
         .time {
@@ -43,6 +45,8 @@
         .degree_title {
             @include body-text;
             font-style: italic;
+            justify-content: space-around;
+
 
         }
     }
