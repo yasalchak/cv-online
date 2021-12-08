@@ -128,7 +128,7 @@ DOI: 10.23919/EuCAP48036.2020.9136021\
 
 **[5] Wireless Endoscopy Localization Algorithm Based on Surface Electric Field Distribution,**\
 Y. Salchak, H. G. Espinosa and D. V. Thiel,\
-*Abstract Book of 16th Australian Symposium on Antennas, Sydney, Australia, ASA 2019\
+*Abstract Book of 16th Australian Symposium on Antennas, Sydney, Australia, ASA 2019*\
 Not avaliabe online 
 
 **[6] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**\
