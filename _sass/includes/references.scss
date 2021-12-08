@@ -11,9 +11,8 @@
     }
     .name {
         @include sub-header
-         &:hover {
-           color: var(--fg-color-dark);
-     }
+        &:color: var(--fg-color-dark);
+     
     }
 
     .contact-item {
