@@ -1,6 +1,6 @@
 .education {
     .degrees{
-
+         grid-auto-columns: 300px;
         justify-content: space-around;
     }
     .title {
@@ -8,6 +8,7 @@
     }
     
     .education-item {
+        grid-auto-columns: 300px;
         justify-content: space-around;
         margin-bottom: 12px;
 
