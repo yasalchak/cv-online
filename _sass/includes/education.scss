@@ -4,8 +4,6 @@
     }
     
     .education-item {
-        grid-auto-columns: 300px;
-        justify-content: space-around;
         padding-left: 80px;
         margin-bottom: 12px;
 
@@ -15,8 +13,6 @@
 
         .item-header {
             display: grid;
-            grid-auto-columns: 300px;
-            justify-content: space-around;
             padding-left: 80px;
 
 
@@ -51,8 +47,6 @@
         .degree_title {
             @include body-text;
             font-style: italic;
-            grid-auto-columns: 300px;
-            justify-content: space-around;
             padding-left: 80px;
             
         }
