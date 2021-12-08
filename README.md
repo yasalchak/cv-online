@@ -143,7 +143,6 @@ Y. A. Salchak, etc.\
 **[8] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
 D. Dolmatov, Y. Salchak, D. Sednev, R. Pinchuk,\
 *Materials Science Forum, 2018, vol. 938, pp. 81-88*\
-DOI: 10.4028/www.scientific.net/MSF.938.81\
 [Available online](http://dx.doi.org/10.4028/www.scientific.net/MSF.938.81)
 
 **[9] Frequency-domain imaging algorithm for ultrasonic testing by application of matrix phased arrays,**\
