@@ -193,8 +193,8 @@ M. Kroening, D. Sednev, Y. Salchak,\
 
 
 
-*Due to translation from Russian language, first name spelling has two variations:\
-**Yana (preferred) and Iana (official)**. Both variants are correct.*
+*Due to translation from Russian language, first name spelling has two variations:*\
+**Yana (preferred) and Iana (official)**. *Both variants are correct*.
 
 <!-- ## Projects
 
