@@ -103,7 +103,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 ## Publications
 
 **[1] Surface Electric Field Variations due to Different Human Postures for Wireless Endoscopy Applications,**\
-Y. A. Salchak*, N. M. Albadri, M. T.O. Worsey, H.G. Espinosa, D. V. Thiel,\
+Y. A. Salchak, N. M. Albadri, M. T.O. Worsey, H.G. Espinosa, D. V. Thiel,\
 *IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-11, 2021, Art no. 1009511*\
 DOI: 10.1109/TIM.2021.3111998.\
 [Availiable online](http://dx.doi.org/10.1109/TIM.2021.3111998)
@@ -116,7 +116,7 @@ DOI: 10.1109/TBME.2019.2916632\
 [Availiable online](http://dx.doi.org/10.1109/TBME.2019.2916632)
 
 **[3] Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function,**\
-Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa\
+Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa\
 *Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*\
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
@@ -127,11 +127,11 @@ DOI: 10.23919/EuCAP48036.2020.9136021\
 [Availiable online](http://dx.doi.org/10.23919/EuCAP48036.2020.9136021)
 
 **[5] Wireless Endoscopy Localization Algorithm Based on Surface Electric Field Distribution,**\
-Y. Salchak*, H. G. Espinosa and D. V. Thiel,\
+Y. Salchak, H. G. Espinosa and D. V. Thiel,\
 *Abstract Book of 16th Australian Symposium on Antennas, Sydney, Australia, ASA 2019\
 Not avaliabe online 
 
-**[6] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**
+**[6] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**\
 S.O. Lim, Y. A. Salchak, C. Furse\
 *Teaching Electromagnetics: Innovative Approaches and Pedagogical Strategies, Taylor&Francis Group: CRC Press, 2021*\
 Not avaliabe online 
@@ -153,19 +153,19 @@ DOI: 10.1051/matecconf/201710201015\
 [Available online](http://dx.doi.org/10.1051/matecconf/201710201015)
 
 **[10] Digitally focused array ultrasonic testing technique for carbon fiber composite structures,**
-Y. Salchak*, V. Zhvyrblya, D. Sednev, and A. Lider,\
+Y. Salchak, V. Zhvyrblya, D. Sednev, and A. Lider,\
 *IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012037.*\
 DOI: 10.1088/1757-899X/135/1/012037\
 [Available online](http://iopscience.iop.org/article/10.1088/1757-899X/135/1/012037/meta)
 
 **[11] Advanced ultrasonic testing of complex shaped composite structures**\
-D. Dolmatov, V. Zhvyrblya, G. Filippov , Y. Salchak*, E. Sedanova,\
-*IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012010.*
+D. Dolmatov, V. Zhvyrblya, G. Filippov , Y. Salchak, E. Sedanova,\
+*IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012010.*\
 DOI: 10.1088/1757-899X/135/1/012010\
 [Available online](https://iopscience.iop.org/article/10.1088/1757-899X/135/1/012010)
 
 **[12] Non-contact calibration technique of ultrasound tomography system for complex shaped objects,**\
-G. Filippov, V. Zhvyrblya, S. Sharavina, Y. Salchak*,\
+G. Filippov, V. Zhvyrblya, S. Sharavina, Y. Salchak,\
 *MATEC Web of Conferences: EDP Sciences, 2016, vol. 48, p. 03002*\
 DOI: 10.1051/matecconf/20164803002\
 [Available online](http://dx.doi.org/10.1051/matecconf/20164803002)
@@ -177,7 +177,7 @@ DOI:10.1088/1757-899X/124/1/012149\
 [Available online](http://dx.doi.org/10.1088/1757-899X/124/1/012149)
 
 **[14] Method of case hardening depth testing by using multifunctional ultrasonic testing instrument,**\
-Y. Salchak Y*, D. Sednev, M. Kroening, I. Ardashkin,\
+Y. Salchak Y, D. Sednev, M. Kroening, I. Ardashkin,\
 *IOP Conference Series: Materials Science and Engineering, 2015, vol. 81, p. 012080*\
 DOI: 10.1088/1757-899X/81/1/012080\
 [Available online](http://dx.doi.org/10.1088/1757-899X/81/1/012080)
@@ -188,12 +188,12 @@ M. Kroening M, Y. A. Salchak, D. A. Sednev DA,\
 [Available online](http://www.scientific.net/AMR.1040.933)
 
 **[16] Heavy-Loaded Components Quality Assurance by Means of Non-Destructive Testing,**\
-M. Kroening, D. Sednev, Y. Salchak*,\
+M. Kroening, D. Sednev, Y. Salchak,\
 *Advanced Materials Research, 2014, vol. 1040, p. 937-942.*\
 [Available online](http://www.scientific.net/AMR.1040.937)
 
 
-"*" Corresponding Author\
+
 *Due to translation from Russian language, first name spelling has two variations:\
 **Yana (preferred)** and **Iana (official)**. **Both variants are correct.**
 
