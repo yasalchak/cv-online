@@ -66,16 +66,18 @@ skills:
 # Profile
 profile: 
   items: [
-    "Conducting multidisciplinary research",
-    "Scientific writing",
-    "White papers preparation",
-    "Ethics approval applications preparation",
-    "Numerical modelling",
+    "Scientific design and implementation",
+    "Reporting thr results including publishing in high impact factor engineering journals",
+    "White papers preparation, including grants proposals and ethics approval",
     "High level of presentation skills with experience of presenting results to large international audiences",
     "Supervising of research projects for Bachelor and Master Students",
-    "Knowledge and experience with Vector Network Analyzer",
-    "Knowledge and experience with ultrasound nondestructive testin equipment, including ultrasonic phased arrays for material inspections",
-    "Programming skills MATLAB, PHYTON, R (*introductory*), HTLM (*introductory*)",
+    "Numerical modelling using FDTD/FEM Electromagnetic Simulation Software",
+    "Path loss modelling and propagation analysis",
+    "Link budget analysis",
+    "RF antenna perfomance testing"
+    "Knowledge and experience with RF instruments (VNA, Radiation Pattern Analysis tools)",
+    "Knowledge and experience with ultrasound nondestructive testin equipment (including ultrasonic phased arrays for material inspections)",
+    "Programming skills (MATLAB, Python, R and HTLM (introductory)",
     ]
  
   
