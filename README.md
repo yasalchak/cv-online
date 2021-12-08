@@ -94,7 +94,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
     -->
 
 
-## Grants and Awards
+<!-- ## Grants and Awards -->
 - Personal education grant, 2020 IEEE Antennas and Propagation Society C. J. Reddy Grant for Graduate Students
 - GU International Postgraduate Research Scholarship, 2018-2022
 - GU Postgraduate Research Scholarship,2018-2022
