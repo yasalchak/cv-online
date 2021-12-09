@@ -14,8 +14,7 @@
             <div class="details">{{exp.details}}</div>
             {% if exp.technologies_used %}
             <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
-            {% endif %}
-            {% if not exp.technologies_used %}
+            {% elseif %}
             <p></p>
             {% endif %}
         </div>
