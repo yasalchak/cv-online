@@ -15,6 +15,9 @@
             {% if exp.technologies_used %}
             <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
             {% endif %}
+            {% if !exp.technologies_used %}
+            <p></p>
+            {% endif %}
         </div>
        
     {% endfor %}
