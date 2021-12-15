@@ -115,7 +115,7 @@ experience:
      Implementation of algorithms for acoustic data visualization and 3D image reconstruction of welding defects. Systems based on digitally focused array (DFA) technology. <br>
      I investigated material degradation process and ways to characterize it by means of nondestructive testing techniques, and created the database that provides all necessary information for further automated quality assurance.<br>
      Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany.<br>
-     3-D reconstruction can be realized by a matrix transducer or by a linear phased array 2-D scanning. Some of the results of my work can be found in publications included in this document [8-13,15]
+     Some of the results of my work can be found in publications included in this document [8-13,15]
     technologies_used: | 
       MATLAB, CIVA (Non Destructive Testing Simulation), A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
