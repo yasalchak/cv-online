@@ -88,10 +88,10 @@ experience:
     time: 2018-Present
     company: Griffith University (Brisbane, Australia)
     details: |
-      Describe my project here and what I have done including th in-vivo experiments. publications numbers[]
+      The project involves development of EM field propagation model for in-body to on-body wireless communication channel. The validation includes numericall modeeling and  in-vivo experiments on laboratory animals. The validated model is implemented for 3D positioning of an implanted antenna based on RSSI analysis. Publications numbers included in the CV [1-7]
     technologies_used: | 
-      MATLAB, CST, Python, VNA, RF Spectrum Analyzer, Dream Catcher RadPat,\
-      Ultrasound Imaging system and Visual Studio
+      MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyzer, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
+      
       
   - role: Tutor for Research Methods & Statistics for Engineers (casual)
     time: 2018-2021
