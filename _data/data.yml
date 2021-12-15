@@ -98,7 +98,7 @@ experience:
     company: Griffith University (Brisbane, Australia)
     details: |
       Giving tutorials on statistical data analysis and research methods, including sceintific design and project proposal preparation. <br>
-      This experince included giving several lectures to Master and Bachelor Students. 
+      This experince also included giving several lectures to Master and Bachelor Students. 
         
   - role: Tutor for Calculus II (casual)
     time: 2018-2021
@@ -111,14 +111,13 @@ experience:
     time: 2015-2018
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
-     Main research work included development of ultrasonic testing methodologies and instrument for quality assurance of steel elements with welding.<br>
-     The perfomance evaluation of the acoustic systems for defects position esimation as well as its dimensions in order to enable objective evaluation of an item`s condition and its further service life.<br>
+     Main research work included development of ultrasonic testing methodologies and instrument for quality assurance of steel elements with welding; perfomance evaluation of the acoustic systems for defects position esimation as well as its dimensions in order to enable objective evaluation of an item`s condition and its further service life;
      Implementation of algorithms for acoustic data visualization and 3D image reconstruction of welding defects. Systems based on digitally focused array (DFA) technology. <br>
      I investigated material degradation process and ways to characterize it by means of nondestructive testing techniques, and created the database that provides all necessary information for further automated quality assurance.<br>
-     Experimental part included ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany.<br>
+     Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany.<br>
      3-D reconstruction can be realized by a matrix transducer or by a linear phased array 2-D scanning. Some of the results of my work can be found in publications included in this document [8-13,15]
     technologies_used: | 
-      MATLAB, CIVA (Non Destructive Testing Simulation) , A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
+      MATLAB, CIVA (Non Destructive Testing Simulation), A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
   - role: Engineer (part-time)
     time: 2014-2015
