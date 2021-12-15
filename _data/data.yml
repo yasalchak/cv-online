@@ -88,7 +88,7 @@ experience:
     time: 2018-Present
     company: Griffith University (Brisbane, Australia)
     details: |
-      The project involves development of EM field propagation model for in-body to on-body wireless communication channel. The validation includes numericall modeeling and  in-vivo experiments on laboratory animals. The validated model is implemented for 3D positioning of an implanted antenna based on RSSI analysis. Publications numbers included in the CV [1-7]
+      The project involves development of EM field propagation model for in-body to on-body wireless communication channel. <br> The validation includes numericall modeeling and  in-vivo experiments on laboratory animals. The validated model is implemented for 3D positioning of an implanted antenna based on RSSI analysis. Publications numbers included in the CV [1-7]
     technologies_used: | 
       MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyzer, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
       
@@ -97,28 +97,37 @@ experience:
     time: 2018-2021
     company: Griffith University (Brisbane, Australia)
     details: |
-      Statistics and Research Methods.Emphasise on stats. Include Lectures for Master and Bachelor Students. 
+      Giving tutorials on statistical data analysis and research methods, including sceintific design and project proposal preparation. <br>
+      This experince included giving several lectures to Master and Bachelor Students. 
         
   - role: Tutor for Calculus II (casual)
     time: 2018-2021
     company: Griffith University (Brisbane, Australia)
     details: |
-      Master and Bachelor Students (SETs?).
+      Giving tutorials within the Calculus II, including vector analysis and differential equations.
     technologies_used: #
       
   - role: Researcher (full-time)
     time: 2015-2018
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
-      Describe main projects. publications numbers[]
+     Main research work included development of ultrasonic testing methodologies and instrument for quality assurance of steel elements with welding.<br>
+     The perfomance evaluation of the acoustic systems for defects position esimation as well as its dimensions in order to enable objective evaluation of an item`s condition and its further service life.<br>
+     Implementation of algorithms for acoustic data visualization and 3D image reconstruction of welding defects. Systems based on digitally focused array (DFA) technology. <br>
+     I investigated material degradation process and ways to characterize it by means of nondestructive testing techniques, and created the database that provides all necessary information for further automated quality assurance.<br>
+     Experimental part included ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany.<br>
+     3-D reconstruction can be realized by a matrix transducer or by a linear phased array 2-D scanning. Some of the results of my work can be found in publications included in this document [8-13,15]
     technologies_used: | 
-      MATLAB, CIVA, Ultrasound tomography systems, A-Scan systems
+      MATLAB, CIVA (Non Destructive Testing Simulation) , A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
   - role: Engineer (part-time)
     time: 2014-2015
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
-      Mainly case hardening testing.Include internship in Saarbrucken Germany with Kroening. publications numbers[]
+      I investigated methods of nondestructive testing of heavy-loaded constructions. Ultrasonic analysis was chosen as a method of research. Specific method based on principles of acoustic scattering in metals for determination of the case hardening depth was proposed, which is the main quality characteristic for the controlled objects.<br>
+      As a part of this experience I also had an internship at Saarland University (Saarbrücken, Germany) under the supervision of Michael Kroeining.He has been a scientific advisor of Tomsk Open Laboratory for Materials Inspection (TOLMI) since 2010. In a period from Oct. 2003 to Feb. 2009 he served as director of Fraunhofer Institute for Non-destructive Testing (Saarbrücken, Germany).<br>
+      As a part of this research a novel approach of multifunctional ultrasonic testing (UT) equipment was investigated. Case Depth Tester (P312), QNet was chosen as a specialized instrument for the reference measurements. SAPHIR_Quantum (AREVA) was chosen as a multifunctional instrument that can be used for the industrial UT nondestructive testing. Series of experiments were performed  to verify that the suggested method of ultrasonic measurement of case hardening depth can be applied with the multifunctional equipment of ultrasonic testing with the implementation of an additional algorithm of signal processing.
+      The results can be found in publications numbers[14,16]
    
       
       
