@@ -98,13 +98,15 @@ experience:
     company: Griffith University (Brisbane, Australia)
     details: |
       Giving tutorials on statistical data analysis and research methods, including sceintific design and project proposal preparation. <br>
-      This experince also included giving several lectures to Master and Bachelor Students. 
+      This experince also included giving several lectures to Master and Bachelor Students.
+      <br>
         
   - role: Tutor for Calculus II (casual)
     time: 2018-2021
     company: Griffith University (Brisbane, Australia)
     details: |
       Giving tutorials within the Calculus II, including vector analysis and differential equations.
+      <br>
     technologies_used: #
       
   - role: Researcher (full-time)
@@ -121,7 +123,7 @@ experience:
     time: 2014-2015
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
-      I investigated methods of nondestructive testing of heavy-loaded constructions. Specific method based on principles of acoustic scattering in metals for determination of the case hardening depth was proposed, which is the main quality characteristic for the controlled objects. As a part of this experience I also had an internship at Saarland University (Saarbrücken, Germany) under the supervision of Michael Kroeining.He has been a scientific advisor of Tomsk Open Laboratory for Materials Inspection (TOLMI) since 2010, in a period from Oct. 2003 to Feb. 2009 he served as director of Fraunhofer Institute for Non-destructive Testing (Saarbrücken, Germany).<br>
+      I investigated methods of nondestructive testing of heavy-loaded constructions. Specific approach based on principles of acoustic scattering in metals for determination of the case hardening depth was proposed, which is the main quality characteristic for the controlled objects. As a part of this experience I also had an internship at Saarland University (Saarbrücken, Germany) under the supervision of Michael Kroeining.He has been a scientific advisor of Tomsk Open Laboratory for Materials Inspection (TOLMI) since 2010, in a period from Oct. 2003 to Feb. 2009 he served as director of Fraunhofer Institute for Non-destructive Testing (Saarbrücken, Germany).<br>
       Main aim of this research was investigation of a novel approach of multifunctional ultrasonic testing (UT) equipment. Case Depth Tester (P312), QNet was chosen as a specialized instrument for the reference measurements. SAPHIR_Quantum (AREVA) was chosen as a multifunctional instrument that can be used for the industrial UT nondestructive testing. Series of experiments were performed  to verify that the suggested method of ultrasonic measurement of case hardening depth can be applied with the multifunctional equipment of ultrasonic testing with the implementation of an additional algorithm of signal processing.
       The results can be found in publications numbers [14,16]
    
