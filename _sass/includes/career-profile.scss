@@ -2,6 +2,10 @@
     .title {
         @include header;
     }
+    .about me{
+        padding-right: 50 px;
+    }
+    
     .details {
         @include body-text;
         margin-bottom: 0px;
