@@ -10,8 +10,9 @@
         @include header;
     }
     .name {
-        
+        @include sub-header;
         color: var(--fg-color-dark);
+        padding-top: 0.2px;
      
     }
 
