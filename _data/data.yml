@@ -106,7 +106,7 @@ experience:
     company: Griffith University (Brisbane, Australia)
     details: |
       I was responsible for the tutorials within the Calculus II course, including vector analysis and differential equations. I taught 2-year Bachelor students with multidisciplinary backgrounds.
-      (Overall SET score 4.2 )<a href="https://drive.google.com/file/d/1Xa1PAdVnIPMKQEd6BjPYboDUB5O9WnEZ/view?usp=sharing">SET Report</a><br>
+      (Overall SET score 4.2 <a href="https://drive.google.com/file/d/1Xa1PAdVnIPMKQEd6BjPYboDUB5O9WnEZ/view?usp=sharing">SET Report</a>)<br>
     technologies_used: #
       
   - role: Researcher (full-time)
@@ -115,7 +115,7 @@ experience:
     details: |
      Main research work included development of ultrasonic testing methodologies and instruments for quality assurance of steel components with welding; perfomance evaluation of acoustic systems for defects position esimation as well as its dimensions in order to enable objective evaluation of an item`s condition;
      Implementation of algorithms for acoustic data visualization and 3D image reconstruction of welding defects based on digitally focused array (DFA) technology. <br>
-     I investigated welding joints degradation process and ways to characterize it by means of nondestructive testing techniques, and created a defect database for further automated quality assurance of steel components. Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany. Some of the results of my work can be found in publications included in this document [8-13,15]
+     I investigated welding joints degradation process and ways to characterize it by means of nondestructive testing techniques, and created a defect database for further automated quality assurance of steel components. Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany. Some of the results of my work can be found in publications included in this document [9-14,16]
     technologies_used: | 
       MATLAB, CIVA (Non Destructive Testing Simulation), A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
@@ -125,7 +125,7 @@ experience:
     details: |
       I investigated methods of nondestructive testing of heavy-loaded constructions. Specific approach based on principles of acoustic scattering in metals for determination of the case hardening depth was proposed, which is the main quality characteristic for the controlled objects. As a part of this experience I also undertook an internship at Saarland University (Saarbrücken, Germany) under the supervision of Michael Kroeining.He has been a scientific advisor of Tomsk Open Laboratory for Materials Inspection (TOLMI) since 2010, in a period from Oct. 2003 to Feb. 2009 he served as director of Fraunhofer Institute for Non-destructive Testing (Saarbrücken, Germany).<br>
       Main aim of this research was development of a novel approach of multifunctional ultrasonic testing (UT) equipment. Case Depth Tester (P312), QNet was chosen as a specialized instrument for the reference measurements. SAPHIR_Quantum (AREVA) was chosen as a multifunctional instrument that can be used for the industrial UT nondestructive testing as an easily availiable alternative. Series of experiments were performed  to verify that the suggested method of ultrasonic measurement of case hardening depth can be applied by means of multifunctional ultrasonic testing equipment with the implementation of an additional algorithm of signal processing.
-      The results can be found in publications numbers [14,16]
+      The results can be found in publications numbers [15,17]
    
       
       
