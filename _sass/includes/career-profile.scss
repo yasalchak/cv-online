@@ -4,6 +4,7 @@
     }
     .details {
         @include body-text;
+        margin-bottom: 0px;
     }    
     color: #002333;
     a {
