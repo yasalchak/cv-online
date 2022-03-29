@@ -110,14 +110,14 @@ DOI: 10.1109/TIM.2021.3111998.\
 
 
 **[2] Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations,**\
-Y. A. Salchak, H. G. Espinosa, and D. V. Thiel 2020\
-*IEEE Transactions on Biomedical Engineering, vol. 67 (2)*\
+Y. A. Salchak, H. G. Espinosa, and D. V. Thiel\
+*IEEE Transactions on Biomedical Engineering, vol. 67 (2), 2019*\
 DOI: 10.1109/TBME.2019.2916632\
 [Availiable online](http://dx.doi.org/10.1109/TBME.2019.2916632)
 
 **[3] Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function,**\
 Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa\
-*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*\
+*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*\IEEE
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 **[4] E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter,**\
