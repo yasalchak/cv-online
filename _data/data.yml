@@ -89,7 +89,7 @@ experience:
     time: 2018-Present
     company: Griffith University (Brisbane, Australia)
     details: |
-      The project involves development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation includes numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model is implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications titels made within this project included in the end of this document under numbers: [1-7]
+      The project involves development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation includes numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model is implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this project included in the end of this document under numbers: [1-11]
     technologies_used: | 
       MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
       
@@ -116,7 +116,7 @@ experience:
     details: |
      Main research work included development of ultrasonic testing methodologies for quality assurance of steel components with welding; perfomance validation of acoustic systems and methodologies for defect position and dimensions evaluation;
      Implementation of algorithms for acoustic data visualisation and 3D image reconstruction of welding defects based on digitally focused array (DFA) technology. <br>
-     I investigated welding joints degradation process and ways to characterise it by means of nondestructive testing techniques, and created a defect database for further automated quality assurance of steel components. Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany. Some of the results of my work can be found in publications included in this document [9-14,16]
+     I investigated welding joints degradation process and ways to characterise it by means of nondestructive testing techniques, and created a defect database for further automated quality assurance of steel components. Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany. Some of the results of my work can be found in publications included in this document [12-17]
     technologies_used: | 
       MATLAB, CIVA (Non Destructive Testing Simulation), A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
@@ -125,7 +125,7 @@ experience:
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
       I investigated methods of nondestructive testing of heavy-loaded constructions. Specific approach based on principles of acoustic scattering in metals for determination of the case hardening depth was proposed, which is the main quality characteristic for the controlled objects. As a part of this experience I also undertook an internship at Saarland University (Saarbrücken, Germany) under the supervision of Michael Kroeining. He has been a scientific advisor of Tomsk Open Laboratory for Materials Inspection (TOLMI) since 2010, in a period from Oct. 2003 to Feb. 2009 he served as director of Fraunhofer Institute for Non-destructive Testing (Saarbrücken, Germany).<br>
-      The results can be found in publications numbers [15,17]
+      The results can be found in publications numbers [18,19]
    
       
       
