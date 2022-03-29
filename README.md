@@ -126,7 +126,7 @@ N. Albadri, Y. A. Salchak, D. V. Thiel and H. G. Espinosa,\
 DOI: 10.23919/EuCAP48036.2020.9136021\
 [Availiable online](http://dx.doi.org/10.23919/EuCAP48036.2020.9136021)
 
-**[5] Wireless Endoscopy Localization Algorithm Based on Surface Electric Field Distribution,**\
+**[5] Wireless Endoscopy Localisation Algorithm Based on Surface Electric Field Distribution,**\
 Y. Salchak, H. G. Espinosa and D. V. Thiel,\
 *Abstract Book of 16th Australian Symposium on Antennas, Sydney, Australia, ASA 2019*\
 Not avaliabe online 
