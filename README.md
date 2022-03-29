@@ -117,7 +117,7 @@ DOI: 10.1109/TBME.2019.2916632\
 
 **[3] Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function,**\
 Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa\
-*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*\IEEE
+*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100* IEEE\
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 **[4] E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter,**\
@@ -134,64 +134,74 @@ Not avaliabe online
 **[6] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**\
 S.O. Lim, Y. A. Salchak, C. Furse\
 *Teaching Electromagnetics: Innovative Approaches and Pedagogical Strategies, Taylor&Francis Group: CRC Press, 2021*\
-Not avaliabe online 
+Not avaliabe online
 
-**[7] In-vivo experimental validation of the attenuation path loss model for localization of wireless implanted transmitter at 2.45 GHz,**\
+**[7]	A Cavity-Backed Slot Antenna on Timber,**\
+M. Radwan, Y. Salchak, N. Albadri, H.G. Espinosa, and D.V. Thiel.
+*Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), pp. 199-201* IEEE\
+[Availiable online](https://ieeexplore.ieee.org/document/9661772)
+
+**[8] A Buried Cavity Backed Slot Antenna for Agriculture and Infrastructure Monitoring,**\
+A. Nizami, A., Y. Salchak, N. Albadri, M. Radwan, H. G. Espinosa, and D.V. Thiel.
+*Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), 326-328* IEEE\
+[Availiable online](https://ieeexplore.ieee.org/abstract/document/9661593)
+
+**[9]	Cavity-backed slot antenna on lossy media,**\
+D. V. Thiel, M. Radwan, N. Al-Badri, Y. A. Salchak, H. G. Espinosa,
+*Abstract Book of 17th Australian Symposium on Antennas, ASA 2021*\
+Not avaliabe online
+
+**[10] In-vivo experimental validation of the attenuation path loss model for localisation of wireless implanted transmitter at 2.45 GHz,**\
+Y. A. Salchak, etc.\
+*IEEE ACCESS, TO BE SUBMITTED*
+
+**[11] Experimental results of the 3-D localisation of the wireless implanted transmitter at 2.45 GHz,**\
 Y. A. Salchak, etc.\
 *IEEE Transactions on Biomedical Engineering, TO BE SUBMITTED*
 
-**[8] Cavity-backed slot antenna on lossy media,**\
-D. V. Thiel, Mohammed Radwan, Noor Al-Badri, Y. A. Salchak, H. G. Espinosa,\
-*Abstract Book of 17th Australian Symposium on Antennas, ASA 2021*\
-Not avaliabe online 
-
-**[9] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
+**[12] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
 D. Dolmatov, Y. Salchak, D. Sednev, R. Pinchuk,\
 *Materials Science Forum, 2018, vol. 938, pp. 81-88*\
 [Available online](http://dx.doi.org/10.4028/www.scientific.net/MSF.938.81)
 
-**[10] Frequency-domain imaging algorithm for ultrasonic testing by application of matrix phased arrays,**\
+**[13] Frequency-domain imaging algorithm for ultrasonic testing by application of matrix phased arrays,**\
 D. O. Dolmatov, Y. A. Salchak, R. Pinchuk,\
 *MATEC Web of Conferences: Space Engineering.—Les Ulis, 2017, vol. 102, p. 01015.*\
 DOI: 10.1051/matecconf/201710201015\
 [Available online](http://dx.doi.org/10.1051/matecconf/201710201015)
 
-**[11] Digitally focused array ultrasonic testing technique for carbon fiber composite structures,**
+**[14] Digitally focused array ultrasonic testing technique for carbon fiber composite structures,**
 Y. Salchak, V. Zhvyrblya, D. Sednev, and A. Lider,\
 *IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012037.*\
 DOI: 10.1088/1757-899X/135/1/012037\
 [Available online](http://iopscience.iop.org/article/10.1088/1757-899X/135/1/012037/meta)
 
-**[12] Advanced ultrasonic testing of complex shaped composite structures**\
+**[15] Advanced ultrasonic testing of complex shaped composite structures**\
 D. Dolmatov, V. Zhvyrblya, G. Filippov , Y. Salchak, E. Sedanova,\
 *IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012010.*\
 DOI: 10.1088/1757-899X/135/1/012010\
 [Available online](https://iopscience.iop.org/article/10.1088/1757-899X/135/1/012010)
 
-**[13] Non-contact calibration technique of ultrasound tomography system for complex shaped objects,**\
+**[16] Non-contact calibration technique of ultrasound tomography system for complex shaped objects,**\
 G. Filippov, V. Zhvyrblya, S. Sharavina, Y. Salchak,\
 *MATEC Web of Conferences: EDP Sciences, 2016, vol. 48, p. 03002*\
 DOI: 10.1051/matecconf/20164803002\
 [Available online](http://dx.doi.org/10.1051/matecconf/20164803002)
 
-**[14] Principles of construction of ultrasonic tomographs for solution of problems of nondestructive testing in mechanical engineering,**\
-I. Bolotina, A. Bulavinov, R. Pinchuk, and Y. Salchak,\
-*IOP Conference Series: Materials Science and Engineering, 2016, vol. 124, p.012149.*\
-DOI:10.1088/1757-899X/124/1/012149\
-[Available online](http://dx.doi.org/10.1088/1757-899X/124/1/012149)
+**[17] Closure welds identification by means of ultrasonic testing,**\
+M. Kroening M, Y. A. Salchak, D. A. Sednev DA,\
+*Advanced Materials Research, 2014, vol. 1040, p. 933-936.*\
+[Available online](http://www.scientific.net/AMR.1040.933)
 
-**[15] Method of case hardening depth testing by using multifunctional ultrasonic testing instrument,**\
+
+**[18] Method of case hardening depth testing by using multifunctional ultrasonic testing instrument,**\
 Y. Salchak Y, D. Sednev, M. Kroening, I. Ardashkin,\
 *IOP Conference Series: Materials Science and Engineering, 2015, vol. 81, p. 012080*\
 DOI: 10.1088/1757-899X/81/1/012080\
 [Available online](http://dx.doi.org/10.1088/1757-899X/81/1/012080)
 
-**[16] Closure welds identification by means of ultrasonic testing,**\
-M. Kroening M, Y. A. Salchak, D. A. Sednev DA,\
-*Advanced Materials Research, 2014, vol. 1040, p. 933-936.*\
-[Available online](http://www.scientific.net/AMR.1040.933)
 
-**[17] Heavy-Loaded Components Quality Assurance by Means of Non-Destructive Testing,**\
+**[19] Heavy-Loaded Components Quality Assurance by Means of Non-Destructive Testing,**\
 M. Kroening, D. Sednev, Y. Salchak,\
 *Advanced Materials Research, 2014, vol. 1040, p. 937-942.*\
 [Available online](http://www.scientific.net/AMR.1040.937)
