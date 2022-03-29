@@ -110,19 +110,19 @@ DOI: 10.1109/TIM.2021.3111998.\
 
 
 **[2] Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations,**\
-Y. A. Salchak, H. G. Espinosa, and D. V. Thiel\
-*IEEE Transactions on Biomedical Engineering, vol. 67 (2), 2019*\
+Y. A. Salchak, H. G. Espinosa, and D. V. Thiel,\
+*IEEE Transactions on Biomedical Engineering, vol. 67 (2), 2019, pp. 504-511*\
 DOI: 10.1109/TBME.2019.2916632\
 [Availiable online](http://dx.doi.org/10.1109/TBME.2019.2916632)
 
 **[3] Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function,**\
-Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa\
+Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa,\
 *Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100* IEEE\
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 **[4] E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter,**\
 N. Albadri, Y. A. Salchak, D. V. Thiel and H. G. Espinosa,\
-*Proceeding on 2020 14th European Conference on Antennas and Propagation (EuCAP), Copenhagen, Denmark, 2020, pp. 1-5*\
+*Proceeding on 2020 14th European Conference on Antennas and Propagation (EuCAP), Copenhagen, Denmark, 2020, pp. 1-5* IEEE\
 DOI: 10.23919/EuCAP48036.2020.9136021\
 [Availiable online](http://dx.doi.org/10.23919/EuCAP48036.2020.9136021)
 
@@ -132,22 +132,22 @@ Y. Salchak, H. G. Espinosa and D. V. Thiel,\
 Not avaliabe online 
 
 **[6] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**\
-S.O. Lim, Y. A. Salchak, C. Furse\
-*Teaching Electromagnetics: Innovative Approaches and Pedagogical Strategies, Taylor&Francis Group: CRC Press, 2021*\
-Not avaliabe online
+S.O. Lim, Y. A. Salchak, C. Furse,\
+*Teaching Electromagnetics: Innovative Approaches and Pedagogical Strategies, Chapter 10, Taylor&Francis Group: CRC Press, 2021*\
+[Availiable online](https://doi.org/10.1201/9781003149231)
 
 **[7]	A Cavity-Backed Slot Antenna on Timber,**\
-M. Radwan, Y. Salchak, N. Albadri, H.G. Espinosa, and D.V. Thiel.
+M. Radwan, Y. Salchak, N. Albadri, H.G. Espinosa, and D.V. Thiel,\
 *Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), pp. 199-201* IEEE\
 [Availiable online](https://ieeexplore.ieee.org/document/9661772)
 
 **[8] A Buried Cavity Backed Slot Antenna for Agriculture and Infrastructure Monitoring,**\
-A. Nizami, A., Y. Salchak, N. Albadri, M. Radwan, H. G. Espinosa, and D.V. Thiel.
+A. Nizami, A., Y. Salchak, N. Albadri, M. Radwan, H. G. Espinosa, and D.V. Thiel,\
 *Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), 326-328* IEEE\
 [Availiable online](https://ieeexplore.ieee.org/abstract/document/9661593)
 
 **[9]	Cavity-backed slot antenna on lossy media,**\
-D. V. Thiel, M. Radwan, N. Al-Badri, Y. A. Salchak, H. G. Espinosa,
+D. V. Thiel, M. Radwan, N. Al-Badri, Y. A. Salchak, H. G. Espinosa,\
 *Abstract Book of 17th Australian Symposium on Antennas, ASA 2021*\
 Not avaliabe online
 
