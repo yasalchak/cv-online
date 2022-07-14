@@ -15,7 +15,7 @@ languages:
   title: Languages
   idioms:
     - name: English
-      level: advanced (86/90 PTE, 2022)
+      level: advanced 
       code: gb
     - name: Russian
       level: native
