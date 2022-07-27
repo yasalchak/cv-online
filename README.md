@@ -153,7 +153,7 @@ Not avaliabe online
 
 **[10] In-vivo experimental validation of the attenuation path loss model for localisation of wireless implanted transmitter at 2.45 GHz,**\
 Y. A. Salchak, etc.\
-*IEEE ACCESS, TO BE SUBMITTED*
+*IEEE ACCESS, UNDER REVIEW*
 
 **[11] Experimental results of the 3-D localisation of the wireless implanted transmitter at 2.45 GHz,**\
 Y. A. Salchak, etc.\
