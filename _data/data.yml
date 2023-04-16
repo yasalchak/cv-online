@@ -4,7 +4,7 @@ fork: false
 
 # Sidebar
 contact:
-  email: iana.salchak@griffithuni.edu.au
+  email: i.salchak@griffith.edu.au
   # github: yasalchak
   linkedin: yana-salchak-927560b4/
   phone: (+61) 452152820
@@ -48,6 +48,7 @@ skills:
     skill: 
       - Matlab
       - Python
+      - C/C++
       - R (introductory)
       - CST
       - CIVA
@@ -75,28 +76,39 @@ profile:
     "Path loss modelling and propagation analysis",
     "Link budget analysis",
     "RF antenna perfomance testing",
+    "Hardware design of biomedical wearable sensors (using Atlium Designer)",
+    "Firmware design for biofeedback data acquision, processing and wireless transmission";
+    "Biofeedback data signal processing";
     "Knowledge and experience with RF instruments (VNA, Radiation Pattern Analysis tools)",
-    "Design and implementation of ultrasonic testing procedures for material inspections",
-    "Knowledge and experience with ultrasonic testing equipment (including ultrasonic phased arrays)",
+    "Knowledge and experince with common physiological data acquisition systems and sensors (optical, EMG and IMU)"
     "Some experience in medical ultrasound imaging results interpretation (postDICOM viewer)",
-    "Programming skills in <b>MATLAB</b>; <b>Python</b>; R and HTML (<i> introductory </i>)",
+    "Programming skills in <b>MATLAB</b>; <b>Python</b>; <b>C/C++</b>; R and HTML (<i> introductory </i>)",
     ]
  
   
 # Experience
 experience:
+  - role: Research Assistant (full-time)
+    time: 2022- Present
+    company: Griffith University Centre of Biomedical and Rehabilitation Engineering (Gold Coast, QLD, Australia)
+    details: |
+      The project is aimed at the developemnt of a system comprising of multiple wearable sesnors  <br>
+    technologies_used: | 
+      MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
+     
+ 
   - role: PhD Student (full-time)
-    time: 2018-Present
-    company: Griffith University (Brisbane, Australia)
+    time: 2018-2022
+    company: Griffith University (Brisbane, QLD, Australia)
     details: |
       The project involved development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation included numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model was implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this project included in the end of this document under numbers: [1-11] <br>
     technologies_used: | 
       MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
-      
-      
+     
+  
   - role: Tutor for Research Methods & Statistics for Engineers (casual)
     time: 2019-2021
-    company: Griffith University (Brisbane, Australia)
+    company: Griffith University (Brisbane, QLD, Australia)
     details: |
       The role included giving tutorials on statistical analysis and research methods, as well as sceintific design and project proposal preparation. <br>
       This experince also included giving several lectures to Master and Bachelor Students.
@@ -104,7 +116,7 @@ experience:
         
   - role: Tutor for Calculus II (casual)
     time: 2019-2020
-    company: Griffith University (Brisbane, Australia)
+    company: Griffith University (Brisbane, QLD, Australia)
     details: |
       I was responsible for the tutorials within the Calculus II course, including vector analysis and differential equations. I taught 2-year Bachelor students with multidisciplinary backgrounds.
       (Overall SET score 4.2 <a href="https://drive.google.com/file/d/1Xa1PAdVnIPMKQEd6BjPYboDUB5O9WnEZ/view?usp=sharing">SET Report</a>)<br>
