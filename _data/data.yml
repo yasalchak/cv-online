@@ -94,7 +94,7 @@ experience:
     details: |
       The objective of the project is to create a wearable sensor system integrated into a textile garment, enabling the acquisition of biological data. The system includes surface electromyography (EMG) sensors to monitor muscle activation during movement as well as inertial measurement units (IMUs) placed on anatomical landmarks to track motion.<br>This solution will allow biomechanical data to be collected in any environment, which could prove useful for rehabilitation and performance optimisation in sports. <br>
     technologies_used: |
-      MATLAB®, Visual Studio, Altium Designer®, Telemetry Viewer, VICON, Myon EMG and IMU wireless sensors, Electric circuits bench testing equipment <br>
+      MATLAB®, Visual Studio, Altium Designer®, Telemetry Viewer, VICON motion capture  system, Myon EMG and IMU wireless sensors, Electric circuits bench testing equipment <br>
      
  
   - role: PhD Student (full-time)
@@ -167,6 +167,16 @@ projects:
 
 # Volunteering
 volunteering:
+  - time: #
+    role: ABC13 2022
+    company: Brisbane, QLD Australia 
+    details: |
+      Preparation of the presentation at The 13th Australasian Biomechanics Conference.
+  - time: #
+    role: STWS 2022
+    company: Brisbane, QLD Australia 
+    details: |
+      Attending the Australia Sports Tech Conference 2022. 
   - time: #
     role: APMC 2021
     company: Brisbane,QLD Australia (virtually due to COVID)
