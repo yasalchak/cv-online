@@ -78,9 +78,9 @@ profile:
     "RF antenna perfomance testing",
     "Hardware design of biomedical wearable sensors (using Atlium Designer)",
     "Firmware design for biofeedback data acquision, processing and wireless transmission",
-    "Biofeedback data signal processing";
+    "Biofeedback data signal processing",
     "Knowledge and experience with RF instruments (VNA, Radiation Pattern Analysis tools)",
-    "Knowledge and experince with common physiological data acquisition systems and sensors (optical, EMG and IMU)"
+    "Knowledge and experince with common physiological data acquisition systems and sensors (optical, EMG and IMU)",
     "Some experience in medical ultrasound imaging results interpretation (postDICOM viewer)",
     "Programming skills in <b>MATLAB</b>; <b>Python</b>; <b>C/C++</b>; R and HTML (<i> introductory </i>)",
     ]
