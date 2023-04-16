@@ -105,7 +105,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 **[1]	Washable garment-embedded textile electrodes can measure high quality surface EMG data across range of motor tasks,**\
 N. R. Lyons, M. T. O. Worsey, D. Devaprakash, Y. A. Salchak, D. V. Thiel, C. Canning, D. G. Lloyd, C. Pizzolato,\
 *IEEE Sensors*\
-Under review\
+Under review
 
 **[2] *In-vivo* experimental validation of the attenuation path loss model for localisation of wireless implanted transmitter at 2.45 GHz,**\
 Y. A. Salchak, N. M. Albadri, T. Bjorkman, C. Lau, E. S.Nadimi, P.Bollen, H. G. Espinosa, D. V. Thiel,\
