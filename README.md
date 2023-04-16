@@ -102,18 +102,24 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 
 ## Publications
 
+**[10] In-vivo experimental validation of the attenuation path loss model for localisation of wireless implanted transmitter at 2.45 GHz,**\
+Y. A. Salchak, N. M. Albadri, T. Bjorkman, C. Lau, E. S.Nadimi, P.Bollen, H. G. Espinosa, D. V. Thiel,\
+*IEEE ACCESS, vol. 10, pp. 84894 - 84912, Aug, 2022*\
+DOI:10.1109/ACCESS.2022.3196376\
+[Available online](https://ieeexplore.ieee.org/document/9849637)
+
+
 **[1] Surface Electric Field Variations due to Different Human Postures for Wireless Endoscopy Applications,**\
 Y. A. Salchak, N. M. Albadri, M. T.O. Worsey, H.G. Espinosa, D. V. Thiel,\
 *IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-11, 2021, Art no. 1009511*\
-DOI: 10.1109/TIM.2021.3111998.\
-[Availiable online](http://dx.doi.org/10.1109/TIM.2021.3111998)
-
+DOI: 10.1109/TIM.2021.3111998\
+[Available online](http://dx.doi.org/10.1109/TIM.2021.3111998)
 
 **[2] Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations,**\
 Y. A. Salchak, H. G. Espinosa, and D. V. Thiel,\
 *IEEE Transactions on Biomedical Engineering, vol. 67 (2), 2019, pp. 504-511*\
 DOI: 10.1109/TBME.2019.2916632\
-[Availiable online](http://dx.doi.org/10.1109/TBME.2019.2916632)
+[Available online](http://dx.doi.org/10.1109/TBME.2019.2916632)
 
 **[3] Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function,**\
 Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa,\
@@ -124,40 +130,32 @@ Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa,\
 N. Albadri, Y. A. Salchak, D. V. Thiel and H. G. Espinosa,\
 *Proceeding on 2020 14th European Conference on Antennas and Propagation (EuCAP), Copenhagen, Denmark, 2020, pp. 1-5* IEEE\
 DOI: 10.23919/EuCAP48036.2020.9136021\
-[Availiable online](http://dx.doi.org/10.23919/EuCAP48036.2020.9136021)
+[Available online](http://dx.doi.org/10.23919/EuCAP48036.2020.9136021)
 
 **[5] Wireless Endoscopy Localisation Algorithm Based on Surface Electric Field Distribution,**\
 Y. Salchak, H. G. Espinosa and D. V. Thiel,\
 *Abstract Book of 16th Australian Symposium on Antennas, Sydney, Australia, ASA 2019*\
-Not avaliabe online 
+Not available online 
 
 **[6] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**\
 S.O. Lim, Y. A. Salchak, C. Furse,\
 *Teaching Electromagnetics: Innovative Approaches and Pedagogical Strategies, Chapter 10, Taylor&Francis Group: CRC Press, 2021*\
-[Availiable online](https://doi.org/10.1201/9781003149231)
+[Available online](https://doi.org/10.1201/9781003149231)
 
 **[7]	A Cavity-Backed Slot Antenna on Timber,**\
 M. Radwan, Y. Salchak, N. Albadri, H.G. Espinosa, and D.V. Thiel,\
 *Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), pp. 199-201* IEEE\
-[Availiable online](https://ieeexplore.ieee.org/document/9661772)
+[Available online](https://ieeexplore.ieee.org/document/9661772)
 
 **[8] A Buried Cavity Backed Slot Antenna for Agriculture and Infrastructure Monitoring,**\
 A. Nizami, A., Y. Salchak, N. Albadri, M. Radwan, H. G. Espinosa, and D.V. Thiel,\
 *Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), 326-328* IEEE\
-[Availiable online](https://ieeexplore.ieee.org/abstract/document/9661593)
+[Available online](https://ieeexplore.ieee.org/abstract/document/9661593)
 
 **[9]	Cavity-backed slot antenna on lossy media,**\
 D. V. Thiel, M. Radwan, N. Al-Badri, Y. A. Salchak, H. G. Espinosa,\
 *Abstract Book of 17th Australian Symposium on Antennas, ASA 2021*\
-Not avaliabe online
-
-**[10] In-vivo experimental validation of the attenuation path loss model for localisation of wireless implanted transmitter at 2.45 GHz,**\
-Y. A. Salchak, etc.\
-*IEEE ACCESS, UNDER REVIEW*
-
-**[11] Experimental results of the 3-D localisation of the wireless implanted transmitter at 2.45 GHz,**\
-Y. A. Salchak, etc.\
-*IEEE Transactions on Biomedical Engineering, TO BE SUBMITTED*
+Not availabe online
 
 **[12] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
 D. Dolmatov, Y. Salchak, D. Sednev, R. Pinchuk,\
