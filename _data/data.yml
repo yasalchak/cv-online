@@ -37,12 +37,10 @@ education:
       time: 2009-2015
       title: GPA 4.8/5
       location:
-        name: National Research Tomsk Polytechnic University(288 QS World Ranking in Engineering&Technology)
+        name: National Research Tomsk Polytechnic University (288 QS World Ranking in Engineering&Technology)
         city: Tomsk
         country: Russia
     
-
-
 skills:
   - category: Software
     skill: 
