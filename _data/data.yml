@@ -92,9 +92,9 @@ experience:
     time: 2022- Present
     company: Griffith University Centre of Biomedical and Rehabilitation Engineering (Gold Coast, QLD, Australia)
     details: |
-      The project is aimed at the developemnt of a system comprising of multiple wearable sesnors  <br>
-    technologies_used: | 
-      MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
+      The objective of the project is to create a wearable sensor system integrated into a textile garment, enabling the acquisition of biological data. The system includes surface electromyography (EMG) sensors to monitor muscle activation during movement as well as inertial measurement units (IMUs) placed on anatomical landmarks to track motion.<br>This solution will allow biomechanical data to be collected in any environment, which could prove useful for rehabilitation and performance optimisation in sports. <br>
+    technologies_used: |
+      MATLAB®, Visual Studio, Altium Designer®, Telemetry Viewer, VICON, Myon EMG and IMU wireless sensors, Electric circuits bench testing equipment <br>
      
  
   - role: PhD Student (full-time)
@@ -103,7 +103,7 @@ experience:
     details: |
       The project involved development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation included numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model was implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this project included in the end of this document under numbers: [1-11] <br>
     technologies_used: | 
-      MATLAB, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
+      MATLAB®, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
      
   
   - role: Tutor for Research Methods & Statistics for Engineers (casual)
