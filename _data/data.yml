@@ -127,7 +127,6 @@ experience:
     details: |
      Main research work included development of ultrasonic testing methodologies for quality assurance of steel components with welding; perfomance validation of acoustic systems and methodologies for defect position and dimensions evaluation;
      implementation of algorithms for acoustic data visualisation and 3D image reconstruction of welding defects based on digitally focused array (DFA) technology. <br>
-     I investigated welding joints degradation process and ways to characterise it by means of nondestructive testing techniques, and created a defect database for further automated quality assurance of steel components. Experimental part of the research was performed using ultrasonic testing systems developed by TPU in collaboration with I-DEAL TECHNOLOGIES, GMBH Germany. Some of the results of my work can be found in publications included in this document [12-17]
     technologies_used: | 
       MATLAB, CIVA (Non Destructive Testing Simulation), A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
