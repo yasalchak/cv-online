@@ -65,22 +65,24 @@ skills:
 # Profile
 profile: 
   items: [
-    "Scientific design and implementation",
+    "Scientific research design and implementation",
     "Reporting the results and publishing in high impact factor engineering journals",
-    "White papers preparation, including grant proposals and ethics approvals",
-    "High level of presentation skills with experience of presenting results to large international audiences",
-    "Supervising of research projects for Bachelor and Master Students",
-    "Numerical modelling using FDTD/FEM Electromagnetic Simulation Software",
-    "Path loss modelling and propagation analysis",
-    "Link budget analysis",
-    "RF antenna perfomance testing",
-    "Hardware design of biomedical wearable sensors (using Atlium Designer)",
-    "Firmware design for biofeedback data acquision, processing and wireless transmission",
-    "Biofeedback data signal processing",
-    "Knowledge and experience with RF instruments (VNA, Radiation Pattern Analysis tools)",
+    "Preparation of white papers, including grant proposals and ethics approvals",
+    "High level presentation skills, including experience presenting results to large international audiences",
+    "Design and development of electronic circuits for biomedical instrumentation",
+    "Printed circuit board design using Altium Designer software",
+    "Microcontroller programming (Arduino, RTOS)",
+    "Embedded software development for wireless sensors",
+    "Signal processing of human biofeedback data",
+    "Experience in developing protocols and conducting in-vivo trials", 
     "Knowledge and experince with common physiological data acquisition systems and sensors (optical, EMG and IMU)",
-    "Some experience in medical ultrasound imaging results interpretation (postDICOM viewer)",
-    "Programming skills in <b>MATLAB</b>; <b>Python</b>; <b>C/C++</b>; R and HTML (<i> introductory </i>)",
+    "Experience in medical ultrasound imaging results interpretation (postDICOM viewer)",
+    "Numerical modelling using FDTD/FEM Electromagnetic Simulation Software",
+    "Link budget analysis",
+    "RF antenna performance simulation and testing",
+    "Knowledge and experience with common electronic bench test equipment",
+    "Knowledge and experience with RF instruments (VNA, Radiation Pattern Analysis tools)",
+    "Programming skills in <b>MATLAB</b>; <b>Python</b>; <b>C/C++</b>",
     ]
  
   
