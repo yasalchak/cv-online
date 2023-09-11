@@ -92,9 +92,9 @@ experience:
     time: 2022- Present
     company: Griffith University Centre of Biomedical and Rehabilitation Engineering (Gold Coast, QLD, Australia)
     details: |
-      The objective of the project is to create a wearable sensor system integrated into a textile garment, enabling the acquisition of biological data. The system includes surface electromyography (EMG) sensors to monitor muscle activation during movement as well as inertial measurement units (IMUs) placed on anatomical landmarks to track motion.<br>This solution will allow biomechanical data to be collected in any environment, which could prove useful for rehabilitation and performance optimisation in sports. Some of the obtained results were included in the publication currently under review in IEEE Sensors journal [1] <br>
+      The objective of the project is to create a wearable sensor system integrated into a textile garment, enabling the acquisition of biological data. The system includes surface electromyography (EMG) sensors to monitor muscle activation during movement as well as inertial measurement units (IMUs) placed on anatomical landmarks to track motion.<br>This solution will allow biomechanical data to be collected in any environment, which could prove useful for rehabilitation with motor disorders, neuromuscular conditions, or injuries. Some of the obtained results were published in IEEE Sensors journal [1] <br>
     technologies_used: |
-      MATLAB®, Visual Studio, Altium Designer®, Telemetry Viewer, VICON motion capture  system, Myon EMG and IMU wireless sensors, Electric circuits bench testing equipment <br>
+      MATLAB®, C/C++, Visual Studio, Altium Designer®, Telemetry Viewer, VICON motion capture  system, Myon EMG and IMU wireless sensors, Electric circuits bench testing equipment <br>
      
  
   - role: PhD Student (full-time)
@@ -171,7 +171,7 @@ volunteering:
     role: ABC13 2022
     company: Brisbane, QLD Australia 
     details: |
-      Preparation of the presentation at The 13th Australasian Biomechanics Conference.
+      Preparation of the paper for the presentation at The 13th Australasian Biomechanics Conference.
   - time: #
     role: STWS 2022
     company: Brisbane, QLD Australia 
@@ -234,13 +234,14 @@ volunteering:
 references:
   title: "REFERENCES"
   persons:
+      name: Claudio Pizzolato
+      job: Senior Lecturer 
+      location: Griffith University
+      email: c.pizzolato@griffith.edu.au
+      phone: +610755527066
     - name: David Thiel
       job: Professor Emeritus
       location: Griffith University
       email: d.thiel@griffith.edu.au
       phone: +61737357192
-    - name: Hugo Espinosa
-      job: Senior Lecturer 
-      location: Griffith University
-      email: h.espinosa@griffith.edu.au
-      phone: +61408709204
+
