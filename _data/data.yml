@@ -212,11 +212,6 @@ volunteering:
     company: Metz, France
     details: |
       Oral presentation at the conference “International congress on ultrasonics”.
-  - time: #
-    role: The IV Conference of Young nuclear scientists of Siberia 2014
-    company: Tomsk, Russia 
-    details: |
-      Oral presentation at the “The IV Conference of Young nuclear scientists of Siberia".
   - time: July, 2019
     role: 3-day course “Introduction to Python, Bash and Git for Data Science"
     company: Griffith University, Brisbane, Australia
