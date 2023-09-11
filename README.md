@@ -103,7 +103,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 ## Publications
 
 **[1]	Washable garment-embedded textile electrodes can measure high quality surface EMG data across range of motor tasks,**\
-N. R. Lyons, M. T. O. Worsey, D. Devaprakash, Y. A. Salchak, D. V. Thiel, C. Canning, D. G. Lloyd, C. Pizzolato,\
+N. R. Lyons, M. T. O. Worsey, D. Devaprakash, Y. A. Salchak, D. V. Thiel, S. Canning, D. G. Lloyd, C. Pizzolato,\
 *IEEE Sensors, vol. 23, 17, pp.20150-20158, Sep, 2023*\
 DOI:10.1109/JSEN.2023.3295773\
 [Avaliable online](https://ieeexplore.ieee.org/document/10189397)
