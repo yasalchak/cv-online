@@ -104,7 +104,7 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 
 **[1]	Washable garment-embedded textile electrodes can measure high quality surface EMG data across range of motor tasks,**\
 N. R. Lyons, M. T. O. Worsey, D. Devaprakash, Y. A. Salchak, D. V. Thiel, S. Canning, D. G. Lloyd, C. Pizzolato,\
-*IEEE Sensors, vol. 23, 17, pp.20150-20158, Sep, 2023*\
+*IEEE Sensors, vol. 23, 17, pp. 20150-20158, Sep, 2023*\
 DOI:10.1109/JSEN.2023.3295773\
 [Avaliable online](https://ieeexplore.ieee.org/document/10189397)
 
@@ -115,7 +115,7 @@ DOI:10.1109/ACCESS.2022.3196376\
 [Available online](https://ieeexplore.ieee.org/document/9849637)
 
 **[3] Surface Electric Field Variations due to Different Human Postures for Wireless Endoscopy Applications,**\
-Y. A. Salchak, N. M. Albadri, M. T. O. Worsey, H. G. Espinosa, D. V. Thiel,\
+Y. A. Salchak, N. M. Albadri, M. T. O. Worsey, H. G. Espinosa, and D. V. Thiel,\
 *IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-11, 2021, Art no. 1009511*\
 DOI: 10.1109/TIM.2021.3111998\
 [Available online](http://dx.doi.org/10.1109/TIM.2021.3111998)
@@ -132,13 +132,13 @@ Y. A. Salchak, N. Albadri, D. V. Thiel, and H. Espinosa,\
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 **[6] E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter,**\
-N. Albadri, Y. A. Salchak, D. V. Thiel and H. G. Espinosa,\
+N. Albadri, Y. A. Salchak, D. V. Thiel, and H. G. Espinosa,\
 *Proceeding on 2020 14th European Conference on Antennas and Propagation (EuCAP), Copenhagen, Denmark, 2020, pp. 1-5* IEEE\
 DOI: 10.23919/EuCAP48036.2020.9136021\
 [Available online](http://dx.doi.org/10.23919/EuCAP48036.2020.9136021)
 
 **[7] Wireless Endoscopy Localisation Algorithm Based on Surface Electric Field Distribution,**\
-Y. Salchak, H. G. Espinosa and D. V. Thiel,\
+Y. A. Salchak, H. G. Espinosa and D. V. Thiel,\
 *Abstract Book of 16th Australian Symposium on Antennas, Sydney, Australia, ASA 2019*\
 Not available online 
 
@@ -162,49 +162,54 @@ D. V. Thiel, M. Radwan, N. Al-Badri, Y. A. Salchak, H. G. Espinosa,\
 *Abstract Book of 17th Australian Symposium on Antennas, ASA 2021*\
 Not availabe online
 
-**[12] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
+**[12] Microwave Profiling Inside Wood Beams using Computed SAR Images,**\
+M. Radwan, Y. A. Salchak, N. Al-Badri,  H. G. Espinosa, D. V. Thiel,\
+*Proceeding on 2023 17th European Conference on Antennas and Propagation (EuCAP), Florence, Italy, 2023* IEEE\
+[Available online](http://dx.doi.org/10.23919/EuCAP57121.2023.10133297)
+
+**[13] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
 D. Dolmatov, Y. Salchak, D. Sednev, R. Pinchuk,\
 *Materials Science Forum, 2018, vol. 938, pp. 81-88*\
 [Available online](http://dx.doi.org/10.4028/www.scientific.net/MSF.938.81)
 
-**[13] Frequency-domain imaging algorithm for ultrasonic testing by application of matrix phased arrays,**\
+**[14] Frequency-domain imaging algorithm for ultrasonic testing by application of matrix phased arrays,**\
 D. O. Dolmatov, Y. A. Salchak, R. Pinchuk,\
 *MATEC Web of Conferences: Space Engineering.—Les Ulis, 2017, vol. 102, p. 01015.*\
 DOI: 10.1051/matecconf/201710201015\
 [Available online](http://dx.doi.org/10.1051/matecconf/201710201015)
 
-**[14] Digitally focused array ultrasonic testing technique for carbon fiber composite structures,**
+**[15] Digitally focused array ultrasonic testing technique for carbon fiber composite structures,**
 Y. Salchak, V. Zhvyrblya, D. Sednev, and A. Lider,\
 *IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012037.*\
 DOI: 10.1088/1757-899X/135/1/012037\
 [Available online](http://iopscience.iop.org/article/10.1088/1757-899X/135/1/012037/meta)
 
-**[15] Advanced ultrasonic testing of complex shaped composite structures**\
+**[16] Advanced ultrasonic testing of complex shaped composite structures**\
 D. Dolmatov, V. Zhvyrblya, G. Filippov , Y. Salchak, E. Sedanova,\
 *IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012010.*\
 DOI: 10.1088/1757-899X/135/1/012010\
 [Available online](https://iopscience.iop.org/article/10.1088/1757-899X/135/1/012010)
 
-**[16] Non-contact calibration technique of ultrasound tomography system for complex shaped objects,**\
+**[17] Non-contact calibration technique of ultrasound tomography system for complex shaped objects,**\
 G. Filippov, V. Zhvyrblya, S. Sharavina, Y. Salchak,\
 *MATEC Web of Conferences: EDP Sciences, 2016, vol. 48, p. 03002*\
 DOI: 10.1051/matecconf/20164803002\
 [Available online](http://dx.doi.org/10.1051/matecconf/20164803002)
 
-**[17] Closure welds identification by means of ultrasonic testing,**\
+**[18] Closure welds identification by means of ultrasonic testing,**\
 M. Kroening M, Y. A. Salchak, D. A. Sednev DA,\
 *Advanced Materials Research, 2014, vol. 1040, p. 933-936.*\
 [Available online](http://www.scientific.net/AMR.1040.933)
 
 
-**[18] Method of case hardening depth testing by using multifunctional ultrasonic testing instrument,**\
+**[19] Method of case hardening depth testing by using multifunctional ultrasonic testing instrument,**\
 Y. Salchak Y, D. Sednev, M. Kroening, I. Ardashkin,\
 *IOP Conference Series: Materials Science and Engineering, 2015, vol. 81, p. 012080*\
 DOI: 10.1088/1757-899X/81/1/012080\
 [Available online](http://dx.doi.org/10.1088/1757-899X/81/1/012080)
 
 
-**[19] Heavy-Loaded Components Quality Assurance by Means of Non-Destructive Testing,**\
+**[20] Heavy-Loaded Components Quality Assurance by Means of Non-Destructive Testing,**\
 M. Kroening, D. Sednev, Y. Salchak,\
 *Advanced Materials Research, 2014, vol. 1040, p. 937-942.*\
 [Available online](http://www.scientific.net/AMR.1040.937)
