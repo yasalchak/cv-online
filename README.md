@@ -103,14 +103,14 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 ## Publications
 
 **[1]	Washable garment-embedded textile electrodes can measure high quality surface EMG data across range of motor tasks,**\
-N. R. Lyons, M. T. O. Worsey, D. Devaprakash, Y. A. Salchak, D. V. Thiel, S. Canning, D. G. Lloyd, C. Pizzolato,\
-*IEEE Sensors, vol. 23, 17, pp. 20150-20158, Sep, 2023*\
+N. R. Lyons, M. T. O. Worsey, D. Devaprakash, Y. A. Salchak, D. V. Thiel, S. Canning, D. G. Lloyd, and C. Pizzolato,\
+*IEEE Sensors, vol. 23 (17), pp. 20150-20158, Sep, 2023*\
 DOI:10.1109/JSEN.2023.3295773\
 [Avaliable online](https://ieeexplore.ieee.org/document/10189397)
 
 **[2] *In-vivo* experimental validation of the attenuation path loss model for localisation of wireless implanted transmitter at 2.45 GHz,**\
-Y. A. Salchak, N. M. Albadri, T. Bjorkman, C. Lau, E. S.Nadimi, P.Bollen, H. G. Espinosa, D. V. Thiel,\
-*IEEE ACCESS, vol. 10, pp. 84894 - 84912, Aug, 2022*\
+Y. A. Salchak, N. M. Albadri, T. Bjorkman, C. Lau, E. S. Nadimi, P. Bollen, H. G. Espinosa, and D. V. Thiel,\
+*IEEE Access, vol. 10, pp. 84894 - 84912, Aug, 2022*\
 DOI:10.1109/ACCESS.2022.3196376\
 [Available online](https://ieeexplore.ieee.org/document/9849637)
 
@@ -143,23 +143,23 @@ Y. A. Salchak, H. G. Espinosa and D. V. Thiel,\
 Not available online 
 
 **[8] Chapter 10: Taking Electromagnetics Beyond Electrical and Electronics Engineering,**\
-S.O. Lim, Y. A. Salchak, C. Furse,\
+S. O. Lim, Y. A. Salchak, C. Furse,\
 *Teaching Electromagnetics: Innovative Approaches and Pedagogical Strategies, Chapter 10, Taylor&Francis Group: CRC Press, 2021*\
 [Available online](https://doi.org/10.1201/9781003149231)
 
 **[9]	A Cavity-Backed Slot Antenna on Timber,**\
-M. Radwan, Y. Salchak, N. Albadri, H.G. Espinosa, and D.V. Thiel,\
-*Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), pp. 199-201* IEEE\
+M. Radwan, Y. Salchak, N. Albadri, H. G. Espinosa, and D. V. Thiel,\
+*Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), Brisbane, Australia, pp. 199-201* IEEE\
 [Available online](https://ieeexplore.ieee.org/document/9661772)
 
 **[10] A Buried Cavity Backed Slot Antenna for Agriculture and Infrastructure Monitoring,**\
 A. Nizami, A., Y. Salchak, N. Albadri, M. Radwan, H. G. Espinosa, and D.V. Thiel,\
-*Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), 326-328* IEEE\
+*Proceeding on 2021 IEEE Asia-Pacific Microwave Conference (APMC), Brisbane, Australia, pp. 326-328* IEEE\
 [Available online](https://ieeexplore.ieee.org/abstract/document/9661593)
 
 **[11]	Cavity-backed slot antenna on lossy media,**\
 D. V. Thiel, M. Radwan, N. Al-Badri, Y. A. Salchak, H. G. Espinosa,\
-*Abstract Book of 17th Australian Symposium on Antennas, ASA 2021*\
+*Abstract Book of 17th Australasian Symposium on Antennas, virtual event, ASA 2021*\
 Not availabe online
 
 **[12] Microwave Profiling Inside Wood Beams using Computed SAR Images,**\
@@ -169,51 +169,48 @@ M. Radwan, Y. A. Salchak, N. Al-Badri,  H. G. Espinosa, D. V. Thiel,\
 
 **[13] Application of Fourier-Domain Post-Processing Technique for Ultrasonic Imaging with Matrix Phased Arrays in Advanced Manufacturing of Details and Machines,**\
 D. Dolmatov, Y. Salchak, D. Sednev, R. Pinchuk,\
-*Materials Science Forum, 2018, vol. 938, pp. 81-88*\
+*Materials Science Forum, vol. 938, 2018, pp. 81-88*\
 [Available online](http://dx.doi.org/10.4028/www.scientific.net/MSF.938.81)
 
 **[14] Frequency-domain imaging algorithm for ultrasonic testing by application of matrix phased arrays,**\
 D. O. Dolmatov, Y. A. Salchak, R. Pinchuk,\
-*MATEC Web of Conferences: Space Engineering.—Les Ulis, 2017, vol. 102, p. 01015.*\
+*MATEC Web of Conferences: Space Engineering.—Les Ulis, vol. 102, 2017, p. 01015.*\
 DOI: 10.1051/matecconf/201710201015\
 [Available online](http://dx.doi.org/10.1051/matecconf/201710201015)
 
 **[15] Digitally focused array ultrasonic testing technique for carbon fiber composite structures,**
 Y. Salchak, V. Zhvyrblya, D. Sednev, and A. Lider,\
-*IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012037.*\
+*IOP Conference Series: Materials Science and Engineering, vol. 135, 2016, p. 012037.*\
 DOI: 10.1088/1757-899X/135/1/012037\
 [Available online](http://iopscience.iop.org/article/10.1088/1757-899X/135/1/012037/meta)
 
 **[16] Advanced ultrasonic testing of complex shaped composite structures**\
 D. Dolmatov, V. Zhvyrblya, G. Filippov , Y. Salchak, E. Sedanova,\
-*IOP Conference Series: Materials Science and Engineering, 2016, vol. 135, p. 012010.*\
+*IOP Conference Series: Materials Science and Engineering, vol. 135, 2016, p. 012010.*\
 DOI: 10.1088/1757-899X/135/1/012010\
 [Available online](https://iopscience.iop.org/article/10.1088/1757-899X/135/1/012010)
 
 **[17] Non-contact calibration technique of ultrasound tomography system for complex shaped objects,**\
 G. Filippov, V. Zhvyrblya, S. Sharavina, Y. Salchak,\
-*MATEC Web of Conferences: EDP Sciences, 2016, vol. 48, p. 03002*\
+*MATEC Web of Conferences: EDP Sciences, vol. 48, 2016, p. 03002*\
 DOI: 10.1051/matecconf/20164803002\
 [Available online](http://dx.doi.org/10.1051/matecconf/20164803002)
 
 **[18] Closure welds identification by means of ultrasonic testing,**\
-M. Kroening M, Y. A. Salchak, D. A. Sednev DA,\
-*Advanced Materials Research, 2014, vol. 1040, p. 933-936.*\
+M. Kroening M, Y. A. Salchak, D. A. Sednev,\
+*Advanced Materials Research, vol. 1040, 2014, p. 933-936.*\
 [Available online](http://www.scientific.net/AMR.1040.933)
 
-
 **[19] Method of case hardening depth testing by using multifunctional ultrasonic testing instrument,**\
-Y. Salchak Y, D. Sednev, M. Kroening, I. Ardashkin,\
+Y. Salchak, D. Sednev, M. Kroening, I. Ardashkin,\
 *IOP Conference Series: Materials Science and Engineering, 2015, vol. 81, p. 012080*\
 DOI: 10.1088/1757-899X/81/1/012080\
 [Available online](http://dx.doi.org/10.1088/1757-899X/81/1/012080)
 
-
 **[20] Heavy-Loaded Components Quality Assurance by Means of Non-Destructive Testing,**\
 M. Kroening, D. Sednev, Y. Salchak,\
-*Advanced Materials Research, 2014, vol. 1040, p. 937-942.*\
+*Advanced Materials Research, vol. 1040, 2014, p. 937-942*\
 [Available online](http://www.scientific.net/AMR.1040.937)
-
 
 
 *Due to translation from Russian language, my first name spelling has two variations:\
