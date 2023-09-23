@@ -90,9 +90,9 @@ profile:
 experience:
   - role: Research Assistant (full-time)
     time: 2022- Present
-    company: Griffith University Centre of Biomedical and Rehabilitation Engineering (Gold Coast, QLD, Australia)
+    company: Griffith University Centre of Biomedical and Rehabilitation Engineering (Southport, QLD, Australia)
     details: |
-      The objective of the project is to create a wearable sensor system integrated into a textile garment, enabling the acquisition of biological data. The system includes surface electromyography (EMG) sensors to monitor muscle activation during movement as well as inertial measurement units (IMUs) placed on anatomical landmarks to track motion.<br>This solution will allow biomechanical data to be collected in any environment, which could prove useful for rehabilitation with motor disorders, neuromuscular conditions, or injuries. Some of the obtained results were published in IEEE Sensors journal [1] <br>
+      The objective of the project is to create a wearable sensor system integrated into a textile garment, enabling the acquisition of biomechanical data. The system includes surface electromyography (EMG) sensors to monitor muscle activation during movement as well as inertial measurement units (IMUs) placed on anatomical landmarks to track motion.<br>This solution will allow biomechanical data to be collected in any environment, which could prove useful for rehabilitation with motor disorders, neuromuscular conditions, or injuries. Some of the obtained results were published in IEEE Sensors journal [1] <br>
     technologies_used: |
       MATLAB®, C/C++, Visual Studio, Altium Designer®, Telemetry Viewer, VICON motion capture  system, Myon EMG and IMU wireless sensors, Electric circuits bench testing equipment <br>
      
@@ -101,19 +101,19 @@ experience:
     time: 2018-2022
     company: Griffith University (Brisbane, QLD, Australia)
     details: |
-      The project involved development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation included numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model was implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this project included in the end of this document under numbers: [2-11] <br>
+      The project involved development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation included numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model was implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this project and adjascent projects I worked on during this period are included in the end of this document [2-12] <br>
     technologies_used: | 
       MATLAB®, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
      
   
-  - role: Tutor for Research Methods & Statistics for Engineers (casual)
+  - role: Sessional Tutor for Research Methods & Statistics for Engineers
     time: 2019-2021
     company: Griffith University (Brisbane, QLD, Australia)
     details: |
       The role included giving tutorials on statistical analysis and research methods, as well as sceintific design and project proposal preparation. This experince also included giving several lectures to Master and Bachelor Students.
       <br>
         
-  - role: Tutor for Calculus II (casual)
+  - role: Sessional Tutor for Calculus II 
     time: 2019-2020
     company: Griffith University (Brisbane, QLD, Australia)
     details: |
@@ -126,7 +126,7 @@ experience:
     company: Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia
     details: |
      Main research work included development of ultrasonic testing methodologies for quality assurance of steel components with welding; perfomance validation of acoustic systems and methodologies for defect position and dimensions evaluation;
-     implementation of algorithms for acoustic data visualisation and 3D image reconstruction of welding defects based on digitally focused array (DFA) technology. <br>
+     implementation of algorithms for acoustic data visualisation and 3D image reconstruction of welding defects based on digitally focused array (DFA) technology. Publications made within this role [13 -17] <br>
     technologies_used: | 
       MATLAB, CIVA (Non Destructive Testing Simulation), A-Scan systems, Multichannel ultrasonic systems for immersion control, Ultrasound tomography systems, Phased arrays transducer 
       
