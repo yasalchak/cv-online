@@ -101,7 +101,7 @@ experience:
     time: 2018-2022
     company: Griffith University (Brisbane, QLD, Australia)
     details: |
-      The project involved development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation included numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model was implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this project and adjascent projects I worked on during this period are included in the end of this document [2-12] <br>
+      The project involved development of an EM field propagation model for in-body to on-body wireless communication channel. <br> The validation included numericall modelling and in-vivo experiments on laboratory animals. An implanted transmitter and wearable antennas were used for the data acquisition. The validated model was implemented for 3D positioning of a wireless endoscopy capsule based on RSSI analysis. Publications made within this and adjascent projects I worked on during this period are included in the end of this document [2-12] <br>
     technologies_used: | 
       MATLAB®, CST MICROWAVE STUDIO®, Python, VNA, RF Spectrum Analyser, Dream Catcher ME1310 (Radiation Pattern Software), Ultrasound imaging software <br>
      
