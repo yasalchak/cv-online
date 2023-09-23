@@ -169,27 +169,28 @@ volunteering:
     role: ABC13 2022
     company: Brisbane, QLD Australia 
     details: |
-      Preparation of the paper for the presentation at The 13th Australasian Biomechanics Conference.
+      Preparation of the paper for the presentation at The 13th Australasian Biomechanics Conference titled "A garment-embedded network of biosensors for in field biomechanics".
+
   - time: #
     role: APMC 2021
     company: Brisbane,QLD Australia (virtually due to COVID)
     details: |
-      Preparation of the papers for the presentation at the Asian Pacific Microwave Conference. Publications [7,8] 
+      Preparation of the papers for the presentation at the Asian Pacific Microwave Conference. Publications [9,10] 
   - time: #
     role: APS/URSI 2020
     company: Montreal, Canada (virtually due to COVID19)
     details: |
-      Oral presentation “Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function’’ at the 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting.
+      Oral presentation “Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function’’[5] at the 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting.
   - time: #
     role: EuCAP 2020
     company: Copenhagen, Denmark (virtually due to COVID19)
     details: |
-      Preparation of the poster “E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter’’ at the 14th European Conference on Antennas and Propagation.
+      Preparation of the poster “E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter’’[6] at the 14th European Conference on Antennas and Propagation.
   - time: #
     role: ASA 2019
     company: Sydney, NSW Australia (virtually due to COVID)
     details: |
-      Oral presentation “Wireless endoscopy localisation algorithm based on surface electric field distribution’’ at the 16th Australian Symposium on Antennas.
+      Oral presentation “Wireless endoscopy localisation algorithm based on surface electric field distribution’’[7] at the 16th Australian Symposium on Antennas.
   - time: #
     role: RACIRI Summer School “Grand Challenges and Opportunities with the Best X-ray and Neutron Sources” 2017 
     company: Ronneby, Sweden
